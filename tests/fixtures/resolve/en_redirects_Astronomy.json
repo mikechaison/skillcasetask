@@ -1,0 +1,49 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 50650,
+        "ns": 0,
+        "title": "Astronomy",
+        "redirects": [
+          {
+            "pageid": 52038,
+            "ns": 0,
+            "title": "Stellar astronomy"
+          },
+          {
+            "pageid": 102185,
+            "ns": 0,
+            "title": "Astronomical"
+          },
+          {
+            "pageid": 471345,
+            "ns": 0,
+            "title": "Astronomic"
+          },
+          {
+            "pageid": 10478136,
+            "ns": 0,
+            "title": "Space stuff"
+          },
+          {
+            "pageid": 14595891,
+            "ns": 0,
+            "title": "Stars and Planets"
+          },
+          {
+            "pageid": 28943108,
+            "ns": 0,
+            "title": "Space astronomy"
+          },
+          {
+            "pageid": 82194854,
+            "ns": 0,
+            "title": "Department of Astronomy"
+          }
+        ]
+      }
+    ]
+  }
+}

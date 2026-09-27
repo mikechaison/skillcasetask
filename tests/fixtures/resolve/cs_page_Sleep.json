@@ -1,0 +1,15 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 361839,
+        "ns": 0,
+        "title": "Sleep",
+        "pageprops": {
+          "wikibase_item": "Q693387"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Pickleball",
+        "pageid": 1887827
+      },
+      {
+        "ns": 0,
+        "title": "Pickleball in the United States",
+        "pageid": 78227790
+      },
+      {
+        "ns": 0,
+        "title": "Pickleball in Australia",
+        "pageid": 78410404
+      },
+      {
+        "ns": 0,
+        "title": "Pickleball Hall of Fame",
+        "pageid": 79437043
+      },
+      {
+        "ns": 0,
+        "title": "Pickleball in Canada",
+        "pageid": 78249933
+      }
+    ]
+  }
+}

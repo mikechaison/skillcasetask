@@ -1,0 +1,17 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Buffeting",
+        "pageid": 4344086
+      },
+      {
+        "ns": 0,
+        "title": "Bud Tingelstad",
+        "pageid": 3125766
+      }
+    ]
+  }
+}

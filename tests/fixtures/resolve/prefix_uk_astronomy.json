@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Astronomy",
+        "pageid": 6003345
+      },
+      {
+        "ns": 0,
+        "title": "Astronomy Picture of the Day",
+        "pageid": 1879117
+      },
+      {
+        "ns": 0,
+        "title": "Astronomy and Astrophysics",
+        "pageid": 2129626
+      },
+      {
+        "ns": 0,
+        "title": "Astronomy Domine",
+        "pageid": 3200312
+      },
+      {
+        "ns": 0,
+        "title": "Astronomy Cast",
+        "pageid": 2091653
+      }
+    ]
+  }
+}

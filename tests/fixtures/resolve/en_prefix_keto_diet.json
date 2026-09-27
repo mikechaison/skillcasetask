@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Keto diet",
+        "pageid": 49161918
+      },
+      {
+        "ns": 0,
+        "title": "KE diet",
+        "pageid": 42528947
+      },
+      {
+        "ns": 0,
+        "title": "Keto-ethylene",
+        "pageid": 46410757
+      },
+      {
+        "ns": 0,
+        "title": "Ketu District",
+        "pageid": 23980169
+      },
+      {
+        "ns": 0,
+        "title": "11-Ketodihydrotestosterone",
+        "pageid": 52453328
+      }
+    ]
+  }
+}

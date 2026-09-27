@@ -1,0 +1,22 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Cold plunge",
+        "pageid": 76879206
+      },
+      {
+        "ns": 0,
+        "title": "Cold Planer",
+        "pageid": 17199701
+      },
+      {
+        "ns": 0,
+        "title": "Coldplug",
+        "pageid": 2539982
+      }
+    ]
+  }
+}

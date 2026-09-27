@@ -1,0 +1,59 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "sroffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "searchinfo": {
+      "totalhits": 25
+    },
+    "search": [
+      {
+        "ns": 0,
+        "title": "Přerušovaný půst",
+        "pageid": 1632302,
+        "size": 7148,
+        "wordcount": 738,
+        "snippet": "stravou, jako je metabolický syndrom. <span class=\"searchmatch\">Přerušovaný</span> <span class=\"searchmatch\">půst</span> byl však kritizován jako výstřelek. Věda zpochybňuje <span class=\"searchmatch\">přerušovaný</span> <span class=\"searchmatch\">půst</span>. American Heart Association (AHA)",
+        "timestamp": "2026-06-06T04:03:45Z"
+      },
+      {
+        "ns": 0,
+        "title": "Půst",
+        "pageid": 200131,
+        "size": 12336,
+        "wordcount": 1360,
+        "snippet": "Abstinence Ramadán Hormeze <span class=\"searchmatch\">Přerušovaný</span> <span class=\"searchmatch\">půst</span> Obrázky, zvuky či videa k tématu <span class=\"searchmatch\">půst</span> na Wikimedia Commons Encyklopedické heslo <span class=\"searchmatch\">Půst</span> v Ottově slovníku naučném",
+        "timestamp": "2026-04-10T16:30:22Z"
+      },
+      {
+        "ns": 0,
+        "title": "Biohacking",
+        "pageid": 2001254,
+        "size": 4377,
+        "wordcount": 368,
+        "snippet": "genetickou expresi). <span class=\"searchmatch\">Půst</span> či <span class=\"searchmatch\">přerušovaný</span> <span class=\"searchmatch\">půst</span> jsou jednou z nejstarších metod ovlivňování zdraví a metabolismu. V rámci biohackingu je <span class=\"searchmatch\">půst</span> často vnímán jako",
+        "timestamp": "2025-06-11T20:36:45Z"
+      },
+      {
+        "ns": 0,
+        "title": "Anabolické okno",
+        "pageid": 1479269,
+        "size": 2596,
+        "wordcount": 277,
+        "snippet": "dlouhodobém horizontu mohla vést k pozitivnímu přírůstku svalové hmoty. Protože <span class=\"searchmatch\">půst</span> není výchozím stavem cvičících a kvůli nedostatku důkazů ve prospěch této",
+        "timestamp": "2024-08-02T10:30:58Z"
+      },
+      {
+        "ns": 0,
+        "title": "Košťálová zelenina",
+        "pageid": 517707,
+        "size": 13883,
+        "wordcount": 1481,
+        "snippet": "kalorická a pro nulový obsah karbohydrátů je vhodná při keto dietě a nebo <span class=\"searchmatch\">přerušovaném</span> <span class=\"searchmatch\">půstu</span>. Vaření.cz Archivováno 15. 6. 2009 na Wayback Machine. Zelenina-Kadlec",
+        "timestamp": "2026-04-09T11:33:01Z"
+      }
+    ]
+  }
+}

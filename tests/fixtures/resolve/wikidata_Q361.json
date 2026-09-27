@@ -1,0 +1,27 @@
+{
+  "entities": {
+    "Q361": {
+      "type": "item",
+      "id": "Q361",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "World War I"
+        }
+      },
+      "sitelinks": {
+        "enwiki": {
+          "site": "enwiki",
+          "title": "World War I",
+          "badges": []
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "Перша світова війна",
+          "badges": []
+        }
+      }
+    }
+  },
+  "success": 1
+}

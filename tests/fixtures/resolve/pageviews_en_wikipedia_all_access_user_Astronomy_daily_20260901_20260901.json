@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Astronomy",
+      "granularity": "daily",
+      "timestamp": "2026090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 844
+    }
+  ]
+}

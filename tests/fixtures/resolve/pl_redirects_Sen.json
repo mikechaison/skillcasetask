@@ -1,0 +1,19 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 6041,
+        "ns": 0,
+        "title": "Sen",
+        "redirects": [
+          {
+            "pageid": 742553,
+            "ns": 0,
+            "title": "Fazy snu"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "entities": {
+    "Q333": {
+      "type": "item",
+      "id": "Q333",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "astronomy"
+        }
+      },
+      "sitelinks": {
+        "arwiki": {
+          "site": "arwiki",
+          "title": "علم الفلك",
+          "badges": [
+            "Q17437798"
+          ]
+        },
+        "be_x_oldwiki": {
+          "site": "be_x_oldwiki",
+          "title": "Астраномія",
+          "badges": []
+        },
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Astronomie",
+          "badges": []
+        },
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Astronomie",
+          "badges": []
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Astronomy",
+          "badges": [
+            "Q17437798"
+          ]
+        },
+        "hewiki": {
+          "site": "hewiki",
+          "title": "אסטרונומיה",
+          "badges": []
+        },
+        "jawiki": {
+          "site": "jawiki",
+          "title": "天文学",
+          "badges": []
+        },
+        "nowiki": {
+          "site": "nowiki",
+          "title": "Astronomi",
+          "badges": [
+            "Q17437796"
+          ]
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "Astronomia",
+          "badges": [
+            "Q17437798"
+          ]
+        },
+        "simplewiki": {
+          "site": "simplewiki",
+          "title": "Astronomy",
+          "badges": []
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "Астрономія",
+          "badges": []
+        },
+        "zh_yuewiki": {
+          "site": "zh_yuewiki",
+          "title": "天文學",
+          "badges": []
+        },
+        "zhwiki": {
+          "site": "zhwiki",
+          "title": "天文學",
+          "badges": []
+        }
+      }
+    }
+  },
+  "success": 1
+}

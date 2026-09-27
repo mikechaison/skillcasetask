@@ -1,0 +1,27 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Keton dimetylowy",
+        "pageid": 3213985
+      },
+      {
+        "ns": 0,
+        "title": "Ketowie",
+        "pageid": 782908
+      },
+      {
+        "ns": 0,
+        "title": "Keton etylowo-metylowy",
+        "pageid": 3213979
+      },
+      {
+        "ns": 0,
+        "title": "Kediet Ijill",
+        "pageid": 925522
+      }
+    ]
+  }
+}

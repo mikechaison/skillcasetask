@@ -1,0 +1,23 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 1635976,
+        "ns": 0,
+        "title": "Strava",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "'''Strava''' má více významů:\n* [[Potrava]]&nbsp;– souhrn látek určených k&nbsp;výživě živočichů\n* [[Strava (aplikace)]]&nbsp;– webová stránka a&nbsp;mobilní aplikace pro měření atletické aktivity přes GPS\n\n== Externí odkazy ==\n* {{Wikicitáty|téma=Strava}}\n* {{Wikislovník|heslo=strava}}\n\n{{rozcestník}}"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 516169,
+        "ns": 0,
+        "title": "Otužování",
+        "redirects": [
+          {
+            "pageid": 1724264,
+            "ns": 0,
+            "title": "Otužilec"
+          },
+          {
+            "pageid": 1724265,
+            "ns": 0,
+            "title": "Otužilectví"
+          }
+        ]
+      }
+    ]
+  }
+}

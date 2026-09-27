@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Sleep",
+        "pageid": 2052553
+      },
+      {
+        "ns": 0,
+        "title": "Sleeping Dogs",
+        "pageid": 2741119
+      },
+      {
+        "ns": 0,
+        "title": "Sleepy Princess in the Demon Castle",
+        "pageid": 5379439
+      },
+      {
+        "ns": 0,
+        "title": "Sleep (zespół muzyczny)",
+        "pageid": 2338766
+      },
+      {
+        "ns": 0,
+        "title": "Sleepwalk",
+        "pageid": 1808148
+      }
+    ]
+  }
+}

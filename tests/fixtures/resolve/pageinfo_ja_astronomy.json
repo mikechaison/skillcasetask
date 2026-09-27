@@ -1,0 +1,15 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 988027,
+        "ns": 0,
+        "title": "天文学",
+        "pageprops": {
+          "wikibase_item": "Q333"
+        }
+      }
+    ]
+  }
+}

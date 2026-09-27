@@ -1,0 +1,283 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1042
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015070200",
+      "access": "all-access",
+      "agent": "user",
+      "views": 903
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015070300",
+      "access": "all-access",
+      "agent": "user",
+      "views": 799
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015070400",
+      "access": "all-access",
+      "agent": "user",
+      "views": 682
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015070500",
+      "access": "all-access",
+      "agent": "user",
+      "views": 854
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015070600",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1306
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015070700",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015070800",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015070900",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1002
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015071000",
+      "access": "all-access",
+      "agent": "user",
+      "views": 831
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015071100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 801
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015071200",
+      "access": "all-access",
+      "agent": "user",
+      "views": 966
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015071300",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1233
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015071400",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1222
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015071500",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1019
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015071600",
+      "access": "all-access",
+      "agent": "user",
+      "views": 976
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015071700",
+      "access": "all-access",
+      "agent": "user",
+      "views": 817
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015071800",
+      "access": "all-access",
+      "agent": "user",
+      "views": 705
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015071900",
+      "access": "all-access",
+      "agent": "user",
+      "views": 896
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015072000",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1074
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015072100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015072200",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1001
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015072300",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1054
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015072400",
+      "access": "all-access",
+      "agent": "user",
+      "views": 827
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015072500",
+      "access": "all-access",
+      "agent": "user",
+      "views": 750
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015072600",
+      "access": "all-access",
+      "agent": "user",
+      "views": 847
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015072700",
+      "access": "all-access",
+      "agent": "user",
+      "views": 959
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015072800",
+      "access": "all-access",
+      "agent": "user",
+      "views": 980
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015072900",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1032
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015073000",
+      "access": "all-access",
+      "agent": "user",
+      "views": 924
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Intermittent_fasting",
+      "granularity": "daily",
+      "timestamp": "2015073100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 743
+    }
+  ]
+}

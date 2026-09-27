@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Astronomy Picture of the Day",
+        "pageid": 2722056
+      },
+      {
+        "ns": 0,
+        "title": "Astronomy & astrophysics",
+        "pageid": 3631646
+      },
+      {
+        "ns": 0,
+        "title": "Astronomy Magazine",
+        "pageid": 1650383
+      },
+      {
+        "ns": 0,
+        "title": "AstroNoteS",
+        "pageid": 3751455
+      },
+      {
+        "ns": 0,
+        "title": "Astronomer",
+        "pageid": 3049634
+      }
+    ]
+  }
+}

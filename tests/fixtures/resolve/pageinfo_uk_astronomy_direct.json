@@ -1,0 +1,15 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 827,
+        "ns": 0,
+        "title": "Астрономія",
+        "pageprops": {
+          "wikibase_item": "Q333"
+        }
+      }
+    ]
+  }
+}

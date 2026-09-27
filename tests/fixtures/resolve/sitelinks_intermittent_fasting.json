@@ -1,0 +1,32 @@
+{
+  "entities": {
+    "Q1666254": {
+      "type": "item",
+      "id": "Q1666254",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "intermittent fasting"
+        }
+      },
+      "sitelinks": {
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Přerušovaný půst",
+          "badges": []
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Intermittent fasting",
+          "badges": []
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "Інтервальне голодування",
+          "badges": []
+        }
+      }
+    }
+  },
+  "success": 1
+}

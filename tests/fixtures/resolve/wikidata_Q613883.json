@@ -1,0 +1,26 @@
+{
+  "entities": {
+    "Q613883": {
+      "type": "item",
+      "id": "Q613883",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "Mercury"
+        },
+        "mul": {
+          "language": "mul",
+          "value": "Mercury"
+        }
+      },
+      "sitelinks": {
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "Mercury",
+          "badges": []
+        }
+      }
+    }
+  },
+  "success": 1
+}

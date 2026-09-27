@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Albert Einstein",
+        "pageid": 736
+      },
+      {
+        "ns": 0,
+        "title": "Albert Einstein College of Medicine",
+        "pageid": 319759
+      },
+      {
+        "ns": 0,
+        "title": "Albert Einstein in popular culture",
+        "pageid": 12333667
+      },
+      {
+        "ns": 0,
+        "title": "Albert Einstein World Award of Science",
+        "pageid": 416820
+      },
+      {
+        "ns": 0,
+        "title": "Albert Einstein (album)",
+        "pageid": 38586911
+      }
+    ]
+  }
+}

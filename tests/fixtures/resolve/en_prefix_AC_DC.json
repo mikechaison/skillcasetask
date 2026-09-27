@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "AC/DC",
+        "pageid": 149225
+      },
+      {
+        "ns": 0,
+        "title": "AC/DC discography",
+        "pageid": 4354534
+      },
+      {
+        "ns": 0,
+        "title": "AC/DC Live",
+        "pageid": 2225115
+      },
+      {
+        "ns": 0,
+        "title": "AC/DC receiver design",
+        "pageid": 19064311
+      },
+      {
+        "ns": 0,
+        "title": "AC/DC (pinball)",
+        "pageid": 45502742
+      }
+    ]
+  }
+}

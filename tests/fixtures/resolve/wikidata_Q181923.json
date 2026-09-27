@@ -1,0 +1,34 @@
+{
+  "entities": {
+    "Q181923": {
+      "type": "item",
+      "id": "Q181923",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "attention deficit hyperactivity disorder"
+        }
+      },
+      "sitelinks": {
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Attention deficit hyperactivity disorder",
+          "badges": [
+            "Q17437798"
+          ]
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "ADHD",
+          "badges": []
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "Розлад дефіциту уваги та гіперактивності",
+          "badges": []
+        }
+      }
+    }
+  },
+  "success": 1
+}

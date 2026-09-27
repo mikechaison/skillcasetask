@@ -1,0 +1,16 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 21331306,
+        "ns": 0,
+        "title": "Learning English",
+        "pageprops": {
+          "disambiguation": "",
+          "wikibase_item": "Q16871974"
+        }
+      }
+    ]
+  }
+}

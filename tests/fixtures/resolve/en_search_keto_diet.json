@@ -1,0 +1,61 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "sroffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "searchinfo": {
+      "totalhits": 256,
+      "suggestion": "keto dier",
+      "suggestionsnippet": "keto dier"
+    },
+    "search": [
+      {
+        "ns": 0,
+        "title": "Keto diet",
+        "pageid": 49161918,
+        "size": 273,
+        "wordcount": 64,
+        "snippet": "<span class=\"searchmatch\">Keto</span> <span class=\"searchmatch\">diet</span> may refer to: A low-carbohydrate <span class=\"searchmatch\">diet</span> (high in fat) mainly used for weight loss in adults The ketogenic <span class=\"searchmatch\">diet</span>, a special <span class=\"searchmatch\">diet</span> for treating epilepsy",
+        "timestamp": "2026-03-18T12:03:52Z"
+      },
+      {
+        "ns": 0,
+        "title": "Keto",
+        "pageid": 89201,
+        "size": 603,
+        "wordcount": 119,
+        "snippet": "with antifungal and testosterone-inhibiting properties <span class=\"searchmatch\">Keto</span> <span class=\"searchmatch\">diet</span>, a high-fat, low-carb <span class=\"searchmatch\">diet</span> plan <span class=\"searchmatch\">KETO</span>-LP, a radio station licensed to serve Aurora, Colorado",
+        "timestamp": "2023-08-22T18:31:30Z"
+      },
+      {
+        "ns": 0,
+        "title": "Low-carbohydrate diet",
+        "pageid": 459560,
+        "size": 59952,
+        "wordcount": 6494,
+        "snippet": "same name is also a high-fat, low-carb <span class=\"searchmatch\">diet</span>, but with a lower fat content. A typical version of this <span class=\"searchmatch\">keto</span> <span class=\"searchmatch\">diet</span> for adults has about 50% of food by weight",
+        "timestamp": "2026-08-10T12:49:36Z"
+      },
+      {
+        "ns": 0,
+        "title": "Vinny Guadagnino",
+        "pageid": 25980324,
+        "size": 16884,
+        "wordcount": 1334,
+        "snippet": "giving advice on the <span class=\"searchmatch\">diet</span>. Additionally, he started an Instagram account dedicated to the <span class=\"searchmatch\">keto</span> lifestyle. In 2019, he authored The <span class=\"searchmatch\">Keto</span> Guido Cookbook. Guadagnino",
+        "timestamp": "2026-09-05T06:34:51Z"
+      },
+      {
+        "ns": 0,
+        "title": "Steven Gundry",
+        "pageid": 54012584,
+        "size": 23112,
+        "wordcount": 2100,
+        "snippet": "advocates a low-carbohydrate <span class=\"searchmatch\">diet</span>. In 2022, he authored Unlocking the <span class=\"searchmatch\">Keto</span> Code which promotes a lectin-free ketogenic <span class=\"searchmatch\">diet</span> consisting of goat and sheep",
+        "timestamp": "2026-08-01T08:44:13Z"
+      }
+    ]
+  }
+}

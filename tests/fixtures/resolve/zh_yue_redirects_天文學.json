@@ -1,0 +1,29 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 33210,
+        "ns": 0,
+        "title": "天文學",
+        "redirects": [
+          {
+            "pageid": 188005,
+            "ns": 0,
+            "title": "天文"
+          },
+          {
+            "pageid": 271446,
+            "ns": 0,
+            "title": "天文學界"
+          },
+          {
+            "pageid": 304783,
+            "ns": 0,
+            "title": "天文現象"
+          }
+        ]
+      }
+    ]
+  }
+}

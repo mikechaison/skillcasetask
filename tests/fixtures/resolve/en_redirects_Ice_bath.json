@@ -1,0 +1,49 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 32750328,
+        "ns": 0,
+        "title": "Ice bath",
+        "redirects": [
+          {
+            "pageid": 32752971,
+            "ns": 0,
+            "title": "Cold water immersion"
+          },
+          {
+            "pageid": 32824556,
+            "ns": 0,
+            "title": "Icy bath"
+          },
+          {
+            "pageid": 32824564,
+            "ns": 0,
+            "title": "Bathing in ice"
+          },
+          {
+            "pageid": 75149886,
+            "ns": 0,
+            "title": "Ice-water immersion"
+          },
+          {
+            "pageid": 76879206,
+            "ns": 0,
+            "title": "Cold plunge"
+          },
+          {
+            "pageid": 76933089,
+            "ns": 0,
+            "title": "Ice Baths"
+          },
+          {
+            "pageid": 77607551,
+            "ns": 0,
+            "title": "Cold water therapy"
+          }
+        ]
+      }
+    ]
+  }
+}

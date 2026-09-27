@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Meditation",
+        "pageid": 20062
+      },
+      {
+        "ns": 0,
+        "title": "Meditations on First Philosophy",
+        "pageid": 342912
+      },
+      {
+        "ns": 0,
+        "title": "Meditations",
+        "pageid": 1396131
+      },
+      {
+        "ns": 0,
+        "title": "Meditation music",
+        "pageid": 3920447
+      },
+      {
+        "ns": 0,
+        "title": "Meditations on the Tarot",
+        "pageid": 11070081
+      }
+    ]
+  }
+}

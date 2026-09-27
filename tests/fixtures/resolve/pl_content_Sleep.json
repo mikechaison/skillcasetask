@@ -1,0 +1,23 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 2052553,
+        "ns": 0,
+        "title": "Sleep",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{ujednoznacznienie}}{{wikisłownik|sleep}}\n* [[Sleep (Unix)|sleep]] – polecenie uniksowe\n* [[Sleep (zespół muzyczny)|Sleep]] – grupa muzyczna"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

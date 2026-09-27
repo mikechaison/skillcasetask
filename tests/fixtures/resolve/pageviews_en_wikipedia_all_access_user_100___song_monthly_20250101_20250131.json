@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "100%_(song)",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7
+    }
+  ]
+}

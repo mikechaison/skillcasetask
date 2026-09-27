@@ -1,0 +1,84 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 1581,
+        "ns": 0,
+        "title": "علم الفلك",
+        "redirects": [
+          {
+            "pageid": 5943,
+            "ns": 0,
+            "title": "علم الفلك والفيزياء الفلكية"
+          },
+          {
+            "pageid": 10616,
+            "ns": 0,
+            "title": "الفلك"
+          },
+          {
+            "pageid": 67689,
+            "ns": 0,
+            "title": "علم فلك"
+          },
+          {
+            "pageid": 477639,
+            "ns": 0,
+            "title": "علم الهيئة"
+          },
+          {
+            "pageid": 578232,
+            "ns": 0,
+            "title": "فلك"
+          },
+          {
+            "pageid": 677332,
+            "ns": 0,
+            "title": "Astronomy"
+          },
+          {
+            "pageid": 677333,
+            "ns": 0,
+            "title": "Astronomical"
+          },
+          {
+            "pageid": 824589,
+            "ns": 0,
+            "title": "علم فلك نجمي"
+          },
+          {
+            "pageid": 980561,
+            "ns": 0,
+            "title": "فلك (علم)"
+          },
+          {
+            "pageid": 1143579,
+            "ns": 0,
+            "title": "أصطرنوميا"
+          },
+          {
+            "pageid": 2864964,
+            "ns": 0,
+            "title": "علوم الفلك"
+          },
+          {
+            "pageid": 3266956,
+            "ns": 0,
+            "title": "علم الهيأة"
+          },
+          {
+            "pageid": 4610727,
+            "ns": 0,
+            "title": "فروع علم الفلك"
+          },
+          {
+            "pageid": 9601817,
+            "ns": 0,
+            "title": "عالم الفلك"
+          }
+        ]
+      }
+    ]
+  }
+}

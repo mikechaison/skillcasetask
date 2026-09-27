@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Strava",
+        "pageid": 5002345
+      },
+      {
+        "ns": 0,
+        "title": "Stranger Things",
+        "pageid": 3755274
+      },
+      {
+        "ns": 0,
+        "title": "Straż Graniczna (Polska)",
+        "pageid": 154039
+      },
+      {
+        "ns": 0,
+        "title": "Stralsund",
+        "pageid": 45158
+      },
+      {
+        "ns": 0,
+        "title": "Strasburg",
+        "pageid": 9608
+      }
+    ]
+  }
+}

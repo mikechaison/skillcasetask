@@ -1,0 +1,34 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 988027,
+        "ns": 0,
+        "title": "天文学",
+        "redirects": [
+          {
+            "pageid": 1123286,
+            "ns": 0,
+            "title": "星学"
+          },
+          {
+            "pageid": 1346472,
+            "ns": 0,
+            "title": "天文書"
+          },
+          {
+            "pageid": 4765608,
+            "ns": 0,
+            "title": "宇宙天文学"
+          },
+          {
+            "pageid": 4765609,
+            "ns": 0,
+            "title": "宇宙・天文学"
+          }
+        ]
+      }
+    ]
+  }
+}

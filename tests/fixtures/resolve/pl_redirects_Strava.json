@@ -1,0 +1,12 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 5002345,
+        "ns": 0,
+        "title": "Strava"
+      }
+    ]
+  }
+}

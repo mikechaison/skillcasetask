@@ -1,0 +1,19 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 1752610,
+        "ns": 0,
+        "title": "Englisch als Zweitsprache",
+        "redirects": [
+          {
+            "pageid": 1779832,
+            "ns": 0,
+            "title": "English as a Second Language"
+          }
+        ]
+      }
+    ]
+  }
+}

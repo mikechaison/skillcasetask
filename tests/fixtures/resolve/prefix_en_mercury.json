@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Mercury",
+        "pageid": 19007
+      },
+      {
+        "ns": 0,
+        "title": "Freddie Mercury",
+        "pageid": 42068
+      },
+      {
+        "ns": 0,
+        "title": "Mercury (planet)",
+        "pageid": 19694
+      },
+      {
+        "ns": 0,
+        "title": "Mercury (element)",
+        "pageid": 18617142
+      },
+      {
+        "ns": 0,
+        "title": "Mercury poisoning",
+        "pageid": 344287
+      }
+    ]
+  }
+}

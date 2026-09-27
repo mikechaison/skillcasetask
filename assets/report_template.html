@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>$title</title>
+<style>
+  /* Tokens from the dataviz reference palette (light mode) */
+  :root {
+    --page: #f9f9f7; --surface: #fcfcfb; --ink: #0b0b0b; --ink2: #52514e; --muted: #898781;
+    --grid: #e1e0d9; --baseline: #c3c2b7;
+  }
+  @page { size: A4; margin: 12mm; }
+  html, body { background: var(--page); color: var(--ink); font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }
+  body { margin: 0; padding: 20px 16px; font-size: 13px; line-height: 1.4; }
+  main { max-width: 900px; margin: 0 auto; background: var(--surface); padding: 24px 28px; border: 1px solid rgba(11,11,11,0.10); }
+  h1 { font-size: 20px; margin: 0 0 4px; }
+  .subtitle { color: var(--ink2); margin: 0 0 14px; font-size: 12.5px; }
+  h2 { font-size: 13px; margin: 16px 0 6px; }
+  figure { margin: 0; }
+  figure img { display: block; width: 100%; height: auto; border: 1px solid var(--grid); }
+  ul { margin: 0; padding-left: 18px; }
+  li { margin: 2px 0; }
+  table { width: 100%; border-collapse: collapse; font-size: 12px; font-variant-numeric: tabular-nums; }
+  th { text-align: left; color: var(--ink2); font-weight: 600; border-bottom: 1px solid var(--grid); padding: 4px 6px; }
+  td { border-bottom: 1px solid var(--grid); padding: 4px 6px; vertical-align: top; }
+  .caveats li { font-size: 12px; color: var(--ink2); }
+  footer { margin-top: 14px; color: var(--muted); font-size: 11px; }
+  .tiles { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 14px; }
+  .tile { flex: 1 1 160px; border: 1px solid var(--grid); padding: 8px 10px; background: var(--surface); }
+  .tile-label { color: var(--ink2); font-size: 11.5px; }
+  .tile-value { font-size: 24px; font-weight: 600; margin: 2px 0; }
+  .tile-sub { color: var(--ink2); font-size: 11px; }
+  @media print { body { padding: 0; } main { border: 0; padding: 0; } }
+</style>
+</head>
+<body>
+<main>
+  <h1>$title</h1>
+  <p class="subtitle">$subtitle</p>
+
+  <div class="tiles">$tiles_html</div>
+
+  <figure>
+    <img src="$chart_data_uri" alt="Indexed Wikipedia pageviews per language edition; shaded bands mark spike events">
+  </figure>
+
+  <h2>Findings</h2>
+  <ul>$findings_html</ul>
+
+  <h2>Per edition</h2>
+  <div style="overflow-x:auto">
+  <table>
+    <thead><tr><th>Lang</th><th>Article</th><th>Direction</th><th>Change</th><th>Basis</th><th>Views/day</th><th>Spikes</th><th>Confidence</th><th>Opportunity</th><th>Data</th></tr></thead>
+    <tbody>$rows_html</tbody>
+  </table>
+  </div>
+
+  <h2>Spike events to check (largest first)</h2>
+  <div style="overflow-x:auto">
+  <table>
+    <thead><tr><th>Lang</th><th>Peak date</th><th>Peak views</th><th>Level</th><th>Days</th><th>Excess views</th><th>Likely cause (fill in)</th></tr></thead>
+    <tbody>$spikes_html</tbody>
+  </table>
+  </div>
+
+  <h2>Caveats and limitations</h2>
+  <ul class="caveats">$caveats_html</ul>
+
+  $appendix_html
+
+  <footer>$method Generated $generated from Wikimedia Pageviews (agent=user).</footer>
+</main>
+</body>
+</html>

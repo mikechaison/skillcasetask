@@ -1,0 +1,17 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Ketogenic diet",
+        "pageid": 791546
+      },
+      {
+        "ns": 0,
+        "title": "Ketogenic diet (fad diet)",
+        "pageid": 69368893
+      }
+    ]
+  }
+}

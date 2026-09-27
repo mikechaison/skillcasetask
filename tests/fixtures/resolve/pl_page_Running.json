@@ -1,0 +1,15 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 3170997,
+        "ns": 0,
+        "title": "Running",
+        "pageprops": {
+          "wikibase_item": "Q15796039"
+        }
+      }
+    ]
+  }
+}

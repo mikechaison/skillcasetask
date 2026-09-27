@@ -1,0 +1,39 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "searchinfo": {
+      "totalhits": 3,
+      "suggestion": "kato dieu",
+      "suggestionsnippet": "<em>kato dieu</em>"
+    },
+    "search": [
+      {
+        "ns": 0,
+        "title": "Dieta niskowęglowodanowa",
+        "pageid": 441579,
+        "size": 66801,
+        "wordcount": 6876,
+        "snippet": "w badaniach <span class=\"searchmatch\">diet</span> niskowęglowodanowych zaproponowała następujący podział: Niskowęglowodanowa dieta ketogeniczna (LCKD, low-carb ketogenic <span class=\"searchmatch\">diet</span>): poniżej",
+        "timestamp": "2026-04-07T21:04:12Z"
+      },
+      {
+        "ns": 0,
+        "title": "Dietoterapia",
+        "pageid": 4024184,
+        "size": 21358,
+        "wordcount": 2016,
+        "snippet": "zadaniem jest zmniejszenie poziomu lipidów w surowicy krwi. Do <span class=\"searchmatch\">diet</span> alternatywnych lub <span class=\"searchmatch\">diet</span> modyfikowanych należą: dieta łatwostrawna – stanowi modyfikację",
+        "timestamp": "2026-09-18T13:28:13Z"
+      },
+      {
+        "ns": 0,
+        "title": "Ketoza (metabolizm)",
+        "pageid": 4023629,
+        "size": 17454,
+        "wordcount": 1933,
+        "snippet": " McDuffie Jennifer R.J.R., The effect of a low-carbohydrate, ketogenic <span class=\"searchmatch\">diet</span> versus a low-glycemic index <span class=\"searchmatch\">diet</span> on glycemic control in type 2 diabetes mellitus, „Nutrition",
+        "timestamp": "2026-05-07T13:23:46Z"
+      }
+    ]
+  }
+}

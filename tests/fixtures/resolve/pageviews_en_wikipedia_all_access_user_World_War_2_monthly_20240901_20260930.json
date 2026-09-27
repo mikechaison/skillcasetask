@@ -1,0 +1,229 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1597
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1667
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1741
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1650
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1854
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3746
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 10722
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9812
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1654
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1210
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1079
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1661
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1479
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1018
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1119
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1061
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2026030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1278
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2026040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1128
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2026050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1174
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2026060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 937
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2026070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 995
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2026080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 867
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "World_war_2",
+      "granularity": "monthly",
+      "timestamp": "2026090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 916
+    }
+  ]
+}

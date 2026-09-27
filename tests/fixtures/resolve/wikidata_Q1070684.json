@@ -1,0 +1,34 @@
+{
+  "entities": {
+    "Q1070684": {
+      "type": "item",
+      "id": "Q1070684",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "ketogenic diet"
+        }
+      },
+      "sitelinks": {
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Ketogenní dieta",
+          "badges": []
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Ketogenic diet",
+          "badges": [
+            "Q17437796"
+          ]
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "Кетогенна дієта",
+          "badges": []
+        }
+      }
+    }
+  },
+  "success": 1
+}

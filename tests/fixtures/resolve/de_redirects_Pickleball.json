@@ -1,0 +1,19 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 10570935,
+        "ns": 0,
+        "title": "Pickleball",
+        "redirects": [
+          {
+            "pageid": 10571968,
+            "ns": 0,
+            "title": "Pickle Ball"
+          }
+        ]
+      }
+    ]
+  }
+}

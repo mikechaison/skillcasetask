@@ -1,0 +1,59 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "sroffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "searchinfo": {
+      "totalhits": 97848
+    },
+    "search": [
+      {
+        "ns": 0,
+        "title": "Learning English",
+        "pageid": 21331306,
+        "size": 387,
+        "wordcount": 82,
+        "snippet": "<span class=\"searchmatch\">Learning</span> <span class=\"searchmatch\">English</span> may refer to: BBC <span class=\"searchmatch\">Learning</span> <span class=\"searchmatch\">English</span>, a department of the BBC World Service devoted to <span class=\"searchmatch\">English</span> language teaching <span class=\"searchmatch\">Learning</span> <span class=\"searchmatch\">English</span>, Lesson",
+        "timestamp": "2024-08-26T09:54:13Z"
+      },
+      {
+        "ns": 0,
+        "title": "English as a second or foreign language",
+        "pageid": 415406,
+        "size": 113146,
+        "wordcount": 14144,
+        "snippet": "<span class=\"searchmatch\">English</span> as a second or foreign language (ESL or EFL) is the teaching and <span class=\"searchmatch\">learning</span> of <span class=\"searchmatch\">English</span> by people whose first language is not <span class=\"searchmatch\">English</span>. The field includes",
+        "timestamp": "2026-09-07T02:51:15Z"
+      },
+      {
+        "ns": 0,
+        "title": "BBC Learning English",
+        "pageid": 11178098,
+        "size": 6026,
+        "wordcount": 502,
+        "snippet": "BBC <span class=\"searchmatch\">Learning</span> <span class=\"searchmatch\">English</span> is the <span class=\"searchmatch\">English</span> language teaching department within BBC World Service. It operates globally via its own website, multiple social media",
+        "timestamp": "2025-10-14T17:00:13Z"
+      },
+      {
+        "ns": 0,
+        "title": "Learning English (version of English)",
+        "pageid": 252090,
+        "size": 5931,
+        "wordcount": 633,
+        "snippet": "<span class=\"searchmatch\">Learning</span> <span class=\"searchmatch\">English</span> (previously known as Special <span class=\"searchmatch\">English</span>) is a controlled version of the <span class=\"searchmatch\">English</span> language first used on October 19, 1959, and still presented",
+        "timestamp": "2026-07-27T05:50:35Z"
+      },
+      {
+        "ns": 0,
+        "title": "Simple English Wikipedia",
+        "pageid": 407869,
+        "size": 7854,
+        "wordcount": 685,
+        "snippet": "The Simple <span class=\"searchmatch\">English</span> Wikipedia is a modified <span class=\"searchmatch\">English</span> language edition of Wikipedia written primarily in Basic <span class=\"searchmatch\">English</span> and <span class=\"searchmatch\">Learning</span> <span class=\"searchmatch\">English</span>. It is one of",
+        "timestamp": "2026-09-19T17:41:22Z"
+      }
+    ]
+  }
+}

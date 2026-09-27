@@ -1,0 +1,19 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 827,
+        "ns": 0,
+        "title": "Астрономія",
+        "redirects": [
+          {
+            "pageid": 6003345,
+            "ns": 0,
+            "title": "Astronomy"
+          }
+        ]
+      }
+    ]
+  }
+}

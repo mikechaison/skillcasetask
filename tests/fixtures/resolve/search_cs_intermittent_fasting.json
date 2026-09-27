@@ -1,0 +1,48 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "searchinfo": {
+      "totalhits": 4,
+      "suggestion": "intermittente falling",
+      "suggestionsnippet": "<em>intermittente falling</em>"
+    },
+    "search": [
+      {
+        "ns": 0,
+        "title": "Přerušovaný půst",
+        "pageid": 1632302,
+        "size": 7148,
+        "wordcount": 738,
+        "snippet": "životnímu stylu. V tomto článku byl použit překlad textu z článku <span class=\"searchmatch\">Intermittent</span> <span class=\"searchmatch\">fasting</span> na anglické Wikipedii. LICHTENSTEIN, Alice H.; APPEL, Lawrence J",
+        "timestamp": "2026-06-06T04:03:45Z"
+      },
+      {
+        "ns": 0,
+        "title": "Dieta",
+        "pageid": 144741,
+        "size": 9654,
+        "wordcount": 927,
+        "snippet": "Nízkosacharidová dieta Vegetariánská dieta Přerušované hladovění (angl. <span class=\"searchmatch\">Intermittent</span> <span class=\"searchmatch\">fasting</span>, IF) souhrnně označuje všechny diety, při kterých je období normálního",
+        "timestamp": "2026-09-19T10:05:29Z"
+      },
+      {
+        "ns": 0,
+        "title": "Košťálová zelenina",
+        "pageid": 517707,
+        "size": 13883,
+        "wordcount": 1481,
+        "snippet": "cz Archivováno 15. 6. 2009 na Wayback Machine. Zelenina-Kadlec.cz Semo.cz <span class=\"searchmatch\">Intermittent</span> <span class=\"searchmatch\">fasting</span> Portály: Gastronomie | Rostliny | Zahrada a zahradnictví",
+        "timestamp": "2026-04-09T11:33:01Z"
+      },
+      {
+        "ns": 0,
+        "title": "Diabetes mellitus 2. typu",
+        "pageid": 967476,
+        "size": 43491,
+        "wordcount": 5227,
+        "snippet": "Adrienne R.; HODDY, Kristin K.; UNTERMAN, Terry G.; VARADY, Krista A. <span class=\"searchmatch\">Intermittent</span> <span class=\"searchmatch\">fasting</span> vs daily calorie restriction for type 2 diabetes prevention: a review",
+        "timestamp": "2025-09-25T11:40:47Z"
+      }
+    ]
+  }
+}

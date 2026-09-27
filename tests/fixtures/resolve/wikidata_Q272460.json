@@ -1,0 +1,32 @@
+{
+  "entities": {
+    "Q272460": {
+      "type": "item",
+      "id": "Q272460",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "pilates"
+        }
+      },
+      "sitelinks": {
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Pilates",
+          "badges": []
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "Pilates",
+          "badges": []
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "Пілатес",
+          "badges": []
+        }
+      }
+    }
+  },
+  "success": 1
+}

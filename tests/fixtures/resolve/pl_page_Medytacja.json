@@ -1,0 +1,15 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 20127,
+        "ns": 0,
+        "title": "Medytacja",
+        "pageprops": {
+          "wikibase_item": "Q108458"
+        }
+      }
+    ]
+  }
+}

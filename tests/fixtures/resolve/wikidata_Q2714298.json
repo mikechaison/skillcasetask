@@ -1,0 +1,22 @@
+{
+  "entities": {
+    "Q2714298": {
+      "type": "item",
+      "id": "Q2714298",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "dousing"
+        }
+      },
+      "sitelinks": {
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Otužování",
+          "badges": []
+        }
+      }
+    }
+  },
+  "success": 1
+}

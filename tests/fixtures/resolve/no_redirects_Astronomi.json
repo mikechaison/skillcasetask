@@ -1,0 +1,24 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 494109,
+        "ns": 0,
+        "title": "Astronomi",
+        "redirects": [
+          {
+            "pageid": 541827,
+            "ns": 0,
+            "title": "Astronomisk"
+          },
+          {
+            "pageid": 1501381,
+            "ns": 0,
+            "title": "Verdens eldste vitenskap"
+          }
+        ]
+      }
+    ]
+  }
+}

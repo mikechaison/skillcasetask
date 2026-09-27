@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Pilates",
+        "pageid": 262398
+      },
+      {
+        "ns": 0,
+        "title": "Agnieszka Pilaszewska",
+        "pageid": 553429
+      },
+      {
+        "ns": 0,
+        "title": "Pilatus PC-12",
+        "pageid": 1406162
+      },
+      {
+        "ns": 0,
+        "title": "Pilatus PC-9",
+        "pageid": 1406166
+      },
+      {
+        "ns": 0,
+        "title": "Pilatus (góra)",
+        "pageid": 798878
+      }
+    ]
+  }
+}

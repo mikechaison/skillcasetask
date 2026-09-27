@@ -1,0 +1,59 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "sroffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "searchinfo": {
+      "totalhits": 11
+    },
+    "search": [
+      {
+        "ns": 0,
+        "title": "Performance budgeting",
+        "pageid": 1850542,
+        "size": 1437,
+        "wordcount": 149,
+        "snippet": "Výkonové rozpočtování (tzv. performance-based <span class=\"searchmatch\">budgeting</span>) je systém, který využívá informace o výkonnosti k přidělování, vynakládání a řízení finančních",
+        "timestamp": "2023-05-21T05:28:02Z"
+      },
+      {
+        "ns": 0,
+        "title": "Rozpočet územních samosprávných celků",
+        "pageid": 1893467,
+        "size": 20813,
+        "wordcount": 2163,
+        "snippet": "• fixně limitovaný rozpočet, • přístup nulové základny, • performance <span class=\"searchmatch\">budgeting</span>, • metoda programového rozpočtování, • genderové rozpočtování. Tradičním",
+        "timestamp": "2025-12-03T14:18:07Z"
+      },
+      {
+        "ns": 0,
+        "title": "Lenka Simerská",
+        "pageid": 1681002,
+        "size": 6145,
+        "wordcount": 342,
+        "snippet": "lékařek, Sociologický ústav AV, 2000 Lenka Simerská a kolektiv: Gender <span class=\"searchmatch\">Budgeting</span>, MPSV, 2004 Lenka Simerská a kolektiv: Rozpočtování z hlediska žen a mužů",
+        "timestamp": "2025-03-20T18:26:00Z"
+      },
+      {
+        "ns": 0,
+        "title": "Tabulkový procesor",
+        "pageid": 7898,
+        "size": 6772,
+        "wordcount": 793,
+        "snippet": " Myšlenka elektronického zpracování tabulek byla poprvé načrtnuta v „<span class=\"searchmatch\">Budgeting</span> Models and System Simulation“ od Richarda Mattessicha.[kdy?] Samotný předobraz",
+        "timestamp": "2026-02-19T15:18:27Z"
+      },
+      {
+        "ns": 0,
+        "title": "Vánoce u našich",
+        "pageid": 1626450,
+        "size": 13247,
+        "wordcount": 407,
+        "snippet": "(TV series) na anglické Wikipedii. DAMS, Tim. Testing, Badge Systems &amp; <span class=\"searchmatch\">Budgeting</span>: How Netflix Restarted Production in the Nordics (EXCLUSIVE). Variety",
+        "timestamp": "2026-04-17T05:19:17Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "entities": {
+    "Q27593": {
+      "type": "item",
+      "id": "Q27593",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "AC/DC"
+        },
+        "mul": {
+          "language": "mul",
+          "value": "AC/DC"
+        }
+      },
+      "sitelinks": {
+        "enwiki": {
+          "site": "enwiki",
+          "title": "AC/DC",
+          "badges": [
+            "Q17437798"
+          ]
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "AC/DC",
+          "badges": [
+            "Q17437798"
+          ]
+        }
+      }
+    }
+  },
+  "success": 1
+}

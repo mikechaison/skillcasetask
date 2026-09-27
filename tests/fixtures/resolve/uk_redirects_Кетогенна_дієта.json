@@ -1,0 +1,19 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 3089457,
+        "ns": 0,
+        "title": "Кетогенна дієта",
+        "redirects": [
+          {
+            "pageid": 3089465,
+            "ns": 0,
+            "title": "Кето-дієта"
+          }
+        ]
+      }
+    ]
+  }
+}

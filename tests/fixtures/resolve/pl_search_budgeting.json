@@ -1,0 +1,59 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "sroffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "searchinfo": {
+      "totalhits": 12
+    },
+    "search": [
+      {
+        "ns": 0,
+        "title": "Budżet zadaniowy",
+        "pageid": 1595431,
+        "size": 5665,
+        "wordcount": 519,
+        "snippet": "uchwalaniem ustawy budżetowej (najczęściej jako tzw.: performance-informed <span class=\"searchmatch\">budgeting</span>) Budżet zadaniowy stosowany jest - w różnych formach i zakresie - w wielu",
+        "timestamp": "2026-05-07T08:26:18Z"
+      },
+      {
+        "ns": 0,
+        "title": "Budżetowanie kroczące",
+        "pageid": 2485298,
+        "size": 3105,
+        "wordcount": 330,
+        "snippet": "Budżetowanie kroczące (ang. continuous <span class=\"searchmatch\">budgeting</span>, rolling budget) – jeden ze sposobów tworzenia budżetu, polegający na opracowywaniu budżetu w sposób",
+        "timestamp": "2015-12-09T17:51:43Z"
+      },
+      {
+        "ns": 0,
+        "title": "Budżet partycypacyjny",
+        "pageid": 1144359,
+        "size": 15087,
+        "wordcount": 1248,
+        "snippet": "w: Kierunki Zmian, nr 1(5)/2015, s. 33, ISSN 2083-9847 Participation <span class=\"searchmatch\">Budgeting</span> Project (ang.) Linki do artykułów i zasobów powiązanych z tematem. chs",
+        "timestamp": "2025-12-02T21:40:43Z"
+      },
+      {
+        "ns": 0,
+        "title": "Łukasz Hardt",
+        "pageid": 3207602,
+        "size": 10540,
+        "wordcount": 820,
+        "snippet": "Improving the Quality of Governance in Poland through Performance Based <span class=\"searchmatch\">Budgeting</span> (współautor: Maarten de Jong), Ernst&amp;Young, Warszawa 2011. Studia z realistycznej",
+        "timestamp": "2026-09-03T20:14:36Z"
+      },
+      {
+        "ns": 0,
+        "title": "Andrzej Piosik",
+        "pageid": 4678170,
+        "size": 9256,
+        "wordcount": 949,
+        "snippet": "Impact of Digitalization Tools on the Adoption of Incremental <span class=\"searchmatch\">Budgeting</span> and Zero-Based <span class=\"searchmatch\">Budgeting</span>: Effects on Satisfaction, Methodology Efficiency, and Financial",
+        "timestamp": "2026-04-25T21:28:03Z"
+      }
+    ]
+  }
+}

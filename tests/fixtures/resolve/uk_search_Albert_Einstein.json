@@ -1,0 +1,59 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "sroffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "searchinfo": {
+      "totalhits": 150
+    },
+    "search": [
+      {
+        "ns": 0,
+        "title": "Альберт Айнштайн",
+        "pageid": 28990,
+        "size": 293542,
+        "wordcount": 18644,
+        "snippet": "Альберт Айнштайн (нім. <span class=\"searchmatch\">Albert</span> <span class=\"searchmatch\">Einstein</span> [ˈalbɐt ˈaɪ̯nʃtaɪ̯n], англ. <span class=\"searchmatch\">Albert</span> <span class=\"searchmatch\">Einstein</span> [&#039;ælbət ˈʌɪnstʌɪn], також Альберт Ейнштейн; 14 березня 1879, Ульм,",
+        "timestamp": "2026-09-24T21:47:34Z"
+      },
+      {
+        "ns": 0,
+        "title": "Премія Альберта Ейнштейна",
+        "pageid": 1944193,
+        "size": 37038,
+        "wordcount": 2165,
+        "snippet": "винагороду 10 000 $. Медаль Альберта Ейнштейна Нагорода Альберта Ейнштейна <span class=\"searchmatch\">Albert</span> <span class=\"searchmatch\">Einstein</span> World Award of Science 1984. Архів оригіналу за 07.06.2014. Процитовано",
+        "timestamp": "2026-03-26T05:13:51Z"
+      },
+      {
+        "ns": 0,
+        "title": "Ганс Альберт Ейнштейн",
+        "pageid": 5146009,
+        "size": 17411,
+        "wordcount": 1288,
+        "snippet": "com/1973/07/27/archives/dr-hans-<span class=\"searchmatch\">albert</span>-<span class=\"searchmatch\">einstein</span>-dies-physicist-was-river-authority-overcame.html Thomas Fuchs, «<span class=\"searchmatch\">Einstein</span>, Hans <span class=\"searchmatch\">Albert</span>», dans Dictionnaire historique",
+        "timestamp": "2026-01-24T00:36:49Z"
+      },
+      {
+        "ns": 0,
+        "title": "Господь витончений",
+        "pageid": 5961575,
+        "size": 60685,
+        "wordcount": 3944,
+        "snippet": "Айнштайна» (англ. Subtle Is the Lord: The Science and the Life of <span class=\"searchmatch\">Albert</span> <span class=\"searchmatch\">Einstein</span>) — біографія фізика-теоретика та нобелівського лауреата Альберта Айнштайна",
+        "timestamp": "2026-07-23T08:24:06Z"
+      },
+      {
+        "ns": 0,
+        "title": "Архів Альберта Ейнштейна",
+        "pageid": 2718420,
+        "size": 15817,
+        "wordcount": 968,
+        "snippet": "space. <span class=\"searchmatch\">Albert</span> <span class=\"searchmatch\">Einstein</span> Archives. Архів оригіналу за 7 вересня 2019. Процитовано 4 січня 2016. The History of the <span class=\"searchmatch\">Albert</span> <span class=\"searchmatch\">Einstein</span> Archives. The <span class=\"searchmatch\">Albert</span> Einstein",
+        "timestamp": "2025-07-12T11:05:45Z"
+      }
+    ]
+  }
+}

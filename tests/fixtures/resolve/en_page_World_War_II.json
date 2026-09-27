@@ -1,0 +1,15 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 32927,
+        "ns": 0,
+        "title": "World War II",
+        "pageprops": {
+          "wikibase_item": "Q362"
+        }
+      }
+    ]
+  }
+}

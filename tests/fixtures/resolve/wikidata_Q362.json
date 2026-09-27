@@ -1,0 +1,33 @@
+{
+  "entities": {
+    "Q362": {
+      "type": "item",
+      "id": "Q362",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "World War II"
+        },
+        "mul": {
+          "language": "mul",
+          "value": "World War II"
+        }
+      },
+      "sitelinks": {
+        "enwiki": {
+          "site": "enwiki",
+          "title": "World War II",
+          "badges": [
+            "Q17437798"
+          ]
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "Друга світова війна",
+          "badges": []
+        }
+      }
+    }
+  },
+  "success": 1
+}

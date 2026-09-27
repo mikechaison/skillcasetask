@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Strava",
+        "pageid": 39823396
+      },
+      {
+        "ns": 0,
+        "title": "Stravaganza (series)",
+        "pageid": 1168643
+      },
+      {
+        "ns": 0,
+        "title": "Stravaganzza",
+        "pageid": 18218215
+      },
+      {
+        "ns": 0,
+        "title": "Stravaj",
+        "pageid": 20185199
+      },
+      {
+        "ns": 0,
+        "title": "Stravadium acutangulum",
+        "pageid": 49675541
+      }
+    ]
+  }
+}

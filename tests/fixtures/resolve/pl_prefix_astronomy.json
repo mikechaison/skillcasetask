@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Astronomy",
+        "pageid": 1108187
+      },
+      {
+        "ns": 0,
+        "title": "Astronomy and Astrophysics",
+        "pageid": 1287535
+      },
+      {
+        "ns": 0,
+        "title": "Astronomy Domine",
+        "pageid": 1022614
+      },
+      {
+        "ns": 0,
+        "title": "Astronomia",
+        "pageid": 2221092
+      },
+      {
+        "ns": 0,
+        "title": "Astronom Kopernik, czyli rozmowa z Bogiem",
+        "pageid": 390493
+      }
+    ]
+  }
+}

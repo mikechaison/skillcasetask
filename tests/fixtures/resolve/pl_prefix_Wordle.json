@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Wordle",
+        "pageid": 5217485
+      },
+      {
+        "ns": 0,
+        "title": "WorldCat",
+        "pageid": 1830504
+      },
+      {
+        "ns": 0,
+        "title": "World Trade Center (1973–2001)",
+        "pageid": 42794
+      },
+      {
+        "ns": 0,
+        "title": "World of Warcraft",
+        "pageid": 203590
+      },
+      {
+        "ns": 0,
+        "title": "WordPress",
+        "pageid": 297702
+      }
+    ]
+  }
+}

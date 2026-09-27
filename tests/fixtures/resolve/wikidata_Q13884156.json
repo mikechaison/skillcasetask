@@ -1,0 +1,36 @@
+{
+  "entities": {
+    "Q13884156": {
+      "type": "item",
+      "id": "Q13884156",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "Strava"
+        },
+        "mul": {
+          "language": "mul",
+          "value": "Strava"
+        }
+      },
+      "sitelinks": {
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Strava (aplikace)",
+          "badges": []
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Strava",
+          "badges": []
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "Strava",
+          "badges": []
+        }
+      }
+    }
+  },
+  "success": 1
+}

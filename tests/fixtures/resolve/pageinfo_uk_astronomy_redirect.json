@@ -1,0 +1,21 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "redirects": [
+      {
+        "from": "Astronomy",
+        "to": "Астрономія"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 827,
+        "ns": 0,
+        "title": "Астрономія",
+        "pageprops": {
+          "wikibase_item": "Q333"
+        }
+      }
+    ]
+  }
+}

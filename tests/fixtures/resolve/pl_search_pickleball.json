@@ -1,0 +1,59 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "sroffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "searchinfo": {
+      "totalhits": 24
+    },
+    "search": [
+      {
+        "ns": 0,
+        "title": "Kornelia Strzelecka",
+        "pageid": 5782460,
+        "size": 7921,
+        "wordcount": 659,
+        "snippet": "IMDb [dostęp 2025-10-04]  (ang.). Kornelia Strzelecka, aktorka grająca w <span class=\"searchmatch\">pickleball</span>: Wierzę, że przyjdzie czas na spokojniejsze życie – Tenis Magazyn – Informacje",
+        "timestamp": "2026-05-07T18:00:06Z"
+      },
+      {
+        "ns": 0,
+        "title": "Reprezentacja Polski w piłce siatkowej mężczyzn",
+        "pageid": 187899,
+        "size": 84828,
+        "wordcount": 1355,
+        "snippet": "Łyżwiarstwo figurowe Łyżwiarstwo szybkie Narciarstwo alpejskie Pétanque <span class=\"searchmatch\">Pickleball</span> Pięciobój nowoczesny Pływanie Skoki narciarskie Snooker Strzelectwo Squash",
+        "timestamp": "2026-09-24T13:04:26Z"
+      },
+      {
+        "ns": 0,
+        "title": "Reprezentacja Polski w piłce siatkowej kobiet",
+        "pageid": 261404,
+        "size": 45803,
+        "wordcount": 704,
+        "snippet": "Łyżwiarstwo figurowe Łyżwiarstwo szybkie Narciarstwo alpejskie Pétanque <span class=\"searchmatch\">Pickleball</span> Pięciobój nowoczesny Pływanie Skoki narciarskie Snooker Strzelectwo Squash",
+        "timestamp": "2026-09-07T23:51:30Z"
+      },
+      {
+        "ns": 0,
+        "title": "Igrzyska Afrykańskie 2023",
+        "pageid": 5734007,
+        "size": 13974,
+        "wordcount": 514,
+        "snippet": "pokazowych dyscyplinach: E-sport (szczegóły) Mieszane sztuki walki (szczegóły) <span class=\"searchmatch\">Pickleball</span> (szczegóły) Sambo (szczegóły) Scrabble (szczegóły) Speed-ball (szczegóły)",
+        "timestamp": "2026-07-15T08:57:40Z"
+      },
+      {
+        "ns": 0,
+        "title": "Reprezentacja Polski w amp futbolu kobiet",
+        "pageid": 5767322,
+        "size": 16133,
+        "wordcount": 406,
+        "snippet": "Łyżwiarstwo figurowe Łyżwiarstwo szybkie Narciarstwo alpejskie Pétanque <span class=\"searchmatch\">Pickleball</span> Pięciobój nowoczesny Pływanie Skoki narciarskie Snooker Strzelectwo Squash",
+        "timestamp": "2026-06-23T10:17:21Z"
+      }
+    ]
+  }
+}

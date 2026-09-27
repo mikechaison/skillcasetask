@@ -1,0 +1,16 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 1635976,
+        "ns": 0,
+        "title": "Strava",
+        "pageprops": {
+          "disambiguation": "",
+          "wikibase_item": "Q12776779"
+        }
+      }
+    ]
+  }
+}

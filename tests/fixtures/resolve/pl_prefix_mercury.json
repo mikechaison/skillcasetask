@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Mercury",
+        "pageid": 108947
+      },
+      {
+        "ns": 0,
+        "title": "Freddie Mercury",
+        "pageid": 27486
+      },
+      {
+        "ns": 0,
+        "title": "Mercury Cougar",
+        "pageid": 2832221
+      },
+      {
+        "ns": 0,
+        "title": "Mercury Sable",
+        "pageid": 1021936
+      },
+      {
+        "ns": 0,
+        "title": "Daniela Mercury",
+        "pageid": 3975178
+      }
+    ]
+  }
+}

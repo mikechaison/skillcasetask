@@ -1,0 +1,49 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 40078184,
+        "ns": 0,
+        "title": "Tinder (app)",
+        "redirects": [
+          {
+            "pageid": 42977403,
+            "ns": 0,
+            "title": "Tinder (application software)"
+          },
+          {
+            "pageid": 46765173,
+            "ns": 0,
+            "title": "Tinder (application)"
+          },
+          {
+            "pageid": 50990155,
+            "ns": 0,
+            "title": "Justin Mateen"
+          },
+          {
+            "pageid": 52404313,
+            "ns": 0,
+            "title": "Tinder app"
+          },
+          {
+            "pageid": 53976589,
+            "ns": 0,
+            "title": "Tinder dating site"
+          },
+          {
+            "pageid": 53976590,
+            "ns": 0,
+            "title": "Tinder dating app"
+          },
+          {
+            "pageid": 62379765,
+            "ns": 0,
+            "title": "Swipe Night"
+          }
+        ]
+      }
+    ]
+  }
+}

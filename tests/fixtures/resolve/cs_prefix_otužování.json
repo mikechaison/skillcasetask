@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Otužování",
+        "pageid": 516169
+      },
+      {
+        "ns": 0,
+        "title": "Okusování nehtů",
+        "pageid": 1868330
+      },
+      {
+        "ns": 0,
+        "title": "Obtěžování",
+        "pageid": 2009779
+      },
+      {
+        "ns": 0,
+        "title": "Osazování plošných spojů",
+        "pageid": 395311
+      },
+      {
+        "ns": 0,
+        "title": "Omezování osobní svobody",
+        "pageid": 1206703
+      }
+    ]
+  }
+}

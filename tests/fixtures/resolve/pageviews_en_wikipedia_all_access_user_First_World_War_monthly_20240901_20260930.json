@@ -1,0 +1,229 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 286
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 238
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 293
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 278
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 276
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 229
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 221
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 215
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 177
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 235
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 280
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 232
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 252
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 178
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 210
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 216
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2026030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 211
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2026040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 215
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2026050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 207
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2026060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 192
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2026070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 198
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2026080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 189
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "First_world_war",
+      "granularity": "monthly",
+      "timestamp": "2026090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 174
+    }
+  ]
+}

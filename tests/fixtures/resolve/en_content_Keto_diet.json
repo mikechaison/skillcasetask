@@ -1,0 +1,23 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 49161918,
+        "ns": 0,
+        "title": "Keto diet",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{pp-pc|small=yes}}\n\n'''Keto diet''' may refer to:\n\n* A [[Low-carbohydrate diet#Ketogenic diet|low-carbohydrate diet]] (high in fat) mainly used for weight loss in adults\n* The [[ketogenic diet]], a special diet for treating epilepsy, mostly in children\n\n{{Disambiguation}}"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

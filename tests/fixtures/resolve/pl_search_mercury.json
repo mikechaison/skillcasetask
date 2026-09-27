@@ -1,0 +1,59 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "sroffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "searchinfo": {
+      "totalhits": 3231
+    },
+    "search": [
+      {
+        "ns": 0,
+        "title": "Freddie Mercury",
+        "pageid": 27486,
+        "size": 73386,
+        "wordcount": 7007,
+        "snippet": "konsekwentnie je odrzucała, twierdząc, że więź łącząca ją z <span class=\"searchmatch\">Mercurym</span> była „wyjątkowa”. Po nagraniu albumu <span class=\"searchmatch\">Mercury</span> mówił w wywiadach, że zalicza Caballé do „bardzo",
+        "timestamp": "2026-09-05T19:07:26Z"
+      },
+      {
+        "ns": 0,
+        "title": "Merkury",
+        "pageid": 3699,
+        "size": 103177,
+        "wordcount": 9350,
+        "snippet": "Encyklopedie internetowe: PWN: 3939819 Britannica: place/<span class=\"searchmatch\">Mercury</span>-planet Universalis: <span class=\"searchmatch\">mercure</span>-planete stara БРЭ: 2205752 ЕСУ: 66617 SNL: Merkur Catalana: 0042058",
+        "timestamp": "2026-09-21T14:13:37Z"
+      },
+      {
+        "ns": 0,
+        "title": "Mercury Grand Marquis",
+        "pageid": 2037008,
+        "size": 10806,
+        "wordcount": 513,
+        "snippet": "<span class=\"searchmatch\">Mercury</span> Grand Marquis – samochód osobowy klasy pełnowymiarowej produkowany pod amerykańską marką <span class=\"searchmatch\">Mercury</span> w latach 1979 – 2011. <span class=\"searchmatch\">Mercury</span> Grand Marquis I",
+        "timestamp": "2025-10-23T16:56:26Z"
+      },
+      {
+        "ns": 0,
+        "title": "Mercury",
+        "pageid": 108947,
+        "size": 1122,
+        "wordcount": 70,
+        "snippet": "<span class=\"searchmatch\">Mercury</span> – dawna amerykańska marka samochodów należąca do koncernu Ford Motor Company <span class=\"searchmatch\">Mercury</span> – wyspa w Namibii <span class=\"searchmatch\">Mercury</span> – archipelag wysp w Nowej Zelandii",
+        "timestamp": "2021-08-26T20:58:55Z"
+      },
+      {
+        "ns": 0,
+        "title": "Mary Austin",
+        "pageid": 4398787,
+        "size": 8958,
+        "wordcount": 689,
+        "snippet": "następnie w butiku. <span class=\"searchmatch\">Mercury</span> i Austin poznali się w 1969 roku po tym, jak przedstawił ich sobie Brian May, z którym się spotykała. <span class=\"searchmatch\">Mercury</span> oświadczył się Austin",
+        "timestamp": "2026-07-01T09:20:55Z"
+      }
+    ]
+  }
+}

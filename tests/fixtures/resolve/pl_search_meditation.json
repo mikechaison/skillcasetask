@@ -1,0 +1,59 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "sroffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "searchinfo": {
+      "totalhits": 336
+    },
+    "search": [
+      {
+        "ns": 0,
+        "title": "Medytacja",
+        "pageid": 20127,
+        "size": 73143,
+        "wordcount": 7925,
+        "snippet": "Britannica: topic/<span class=\"searchmatch\">meditation</span>-mental-exercise Universalis: <span class=\"searchmatch\">meditation</span> nowa БРЭ: meditatsiia-db187e SNL: meditasjon Catalana: 0193585, 0122463 DSDE: <span class=\"searchmatch\">meditation</span>",
+        "timestamp": "2026-09-12T13:54:27Z"
+      },
+      {
+        "ns": 0,
+        "title": "Budda",
+        "pageid": 508,
+        "size": 13119,
+        "wordcount": 1398,
+        "snippet": "Chanting Book in English. The National Coordination Center of Provincial <span class=\"searchmatch\">Meditation</span> Institutes of Thailand, Tajlandia, 2011, ISBN 978-974-496-903-3 (ang.)",
+        "timestamp": "2026-04-21T02:44:15Z"
+      },
+      {
+        "ns": 0,
+        "title": "Guru Meditation",
+        "pageid": 356507,
+        "size": 4203,
+        "wordcount": 445,
+        "snippet": "Jeśli gracz poruszył się za bardzo, występował błąd „Guru <span class=\"searchmatch\">Meditation</span>”. Eric Raymond: guru <span class=\"searchmatch\">meditation</span>: n.. The Jargon File. [dostęp 2026-03-23]. (ang.). Bartłomiej",
+        "timestamp": "2026-05-16T14:27:23Z"
+      },
+      {
+        "ns": 0,
+        "title": "Medytacja mindfulness",
+        "pageid": 3824434,
+        "size": 15303,
+        "wordcount": 1726,
+        "snippet": ", B. RaelB.R. Cahn B. RaelB.R., Critical Analysis of the Efficacy of <span class=\"searchmatch\">Meditation</span> Therapies for Acute and Subacute Phase Treatment of Depressive Disorders:",
+        "timestamp": "2026-09-06T07:54:36Z"
+      },
+      {
+        "ns": 0,
+        "title": "Śamatha",
+        "pageid": 1194908,
+        "size": 3819,
+        "wordcount": 310,
+        "snippet": "Teaching on &quot;Calm Abiding <span class=\"searchmatch\">Meditation</span>&quot;. abuddhistlibrary.com. s. 1999-06-24. [dostęp 2009-08-26]. (ang.). Buddhist <span class=\"searchmatch\">Meditation</span>. religionfacts.com. [dostęp",
+        "timestamp": "2026-03-04T19:48:49Z"
+      }
+    ]
+  }
+}

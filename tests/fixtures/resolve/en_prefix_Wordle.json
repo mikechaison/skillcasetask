@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Wordle",
+        "pageid": 69644637
+      },
+      {
+        "ns": 0,
+        "title": "Wordless novel",
+        "pageid": 38835481
+      },
+      {
+        "ns": 0,
+        "title": "Wordless Book",
+        "pageid": 10458299
+      },
+      {
+        "ns": 0,
+        "title": "Wordless picture book",
+        "pageid": 61610109
+      },
+      {
+        "ns": 0,
+        "title": "Wordle (TV series)",
+        "pageid": 81288577
+      }
+    ]
+  }
+}

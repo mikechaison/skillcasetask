@@ -1,0 +1,1354 @@
+{
+  "items": [
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026031700",
+      "access": "all-access",
+      "agent": "user",
+      "views": 28
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026031800",
+      "access": "all-access",
+      "agent": "user",
+      "views": 37
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026031900",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026032000",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026032100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026032200",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026032300",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026032400",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026032500",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026032600",
+      "access": "all-access",
+      "agent": "user",
+      "views": 14
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026032700",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026032800",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026032900",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026033000",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026033100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026040200",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026040300",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026040400",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026040500",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026040600",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026040700",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026040800",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026040900",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026041000",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026041100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026041200",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026041300",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026041400",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026041500",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026041600",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026041700",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026042000",
+      "access": "all-access",
+      "agent": "user",
+      "views": 12
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026042100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 34
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026042200",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026042300",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026042400",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026042500",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026042600",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026042700",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026042800",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026042900",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026043000",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026050200",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026050300",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026050400",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026050500",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026050600",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026050700",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026050800",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026050900",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026051100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026051200",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026051300",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026051400",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026051500",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026051600",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026051700",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026051800",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026051900",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026052000",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026052100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026052200",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026052300",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026052400",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026052500",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026052600",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026052700",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026052800",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026052900",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026053000",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026053100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026060200",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026060300",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026060400",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026060500",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026060600",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026060700",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026060800",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026060900",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026061000",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026061100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026061200",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026061300",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026061400",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026061500",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026061600",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026061700",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026062000",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026062100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026062200",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026062400",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026062500",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026062600",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026062700",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026062800",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026062900",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026063000",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026070200",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026070300",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026070400",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026070600",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026070700",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026070800",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026070900",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026071000",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026071100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026071200",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026071300",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026071400",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026071600",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026071700",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026071800",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026071900",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026072000",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026072100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026072200",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026072300",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026072400",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026072500",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026072600",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026072700",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026072900",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026073000",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026073100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026080200",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026080300",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026080400",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026080500",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026080600",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026080700",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026080900",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026081000",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026081100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026081200",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026081700",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026081800",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026081900",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026082000",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026082100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026082200",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026082400",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026082800",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026083000",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026083100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "cs.wikipedia",
+      "article": "Ice_bathing",
+      "granularity": "daily",
+      "timestamp": "2026090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    }
+  ]
+}

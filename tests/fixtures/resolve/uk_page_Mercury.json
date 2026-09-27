@@ -1,0 +1,15 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 853278,
+        "ns": 0,
+        "title": "Mercury",
+        "pageprops": {
+          "wikibase_item": "Q613883"
+        }
+      }
+    ]
+  }
+}

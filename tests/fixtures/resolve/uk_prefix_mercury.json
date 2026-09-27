@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Mercury",
+        "pageid": 853278
+      },
+      {
+        "ns": 0,
+        "title": "Mercury Insurance Open 2011, одиночний розряд",
+        "pageid": 2631934
+      },
+      {
+        "ns": 0,
+        "title": "Mercury Cougar",
+        "pageid": 1082498
+      },
+      {
+        "ns": 0,
+        "title": "Mercury Insurance Open 2010, одиночний розряд",
+        "pageid": 2765217
+      },
+      {
+        "ns": 0,
+        "title": "Mercury Insurance Open 2012, одиночний розряд",
+        "pageid": 2764734
+      }
+    ]
+  }
+}

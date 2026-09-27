@@ -1,0 +1,15 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 69644637,
+        "ns": 0,
+        "title": "Wordle",
+        "pageprops": {
+          "wikibase_item": "Q110367996"
+        }
+      }
+    ]
+  }
+}

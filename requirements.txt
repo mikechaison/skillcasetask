@@ -1,0 +1,10 @@
+# Runtime
+requests==2.34.2
+numpy==2.5.3
+pandas==3.0.6
+scipy==1.18.1
+matplotlib==3.11.2
+reportlab==5.0.1
+
+# Tests
+pytest==9.1.1

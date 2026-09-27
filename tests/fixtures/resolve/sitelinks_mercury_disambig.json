@@ -1,0 +1,32 @@
+{
+  "entities": {
+    "Q48397": {
+      "type": "item",
+      "id": "Q48397",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "Mercury"
+        }
+      },
+      "sitelinks": {
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Mercury",
+          "badges": []
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Mercury",
+          "badges": []
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "Mercury",
+          "badges": []
+        }
+      }
+    }
+  },
+  "success": 1
+}

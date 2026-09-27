@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Tinder",
+        "pageid": 480152
+      },
+      {
+        "ns": 0,
+        "title": "Tinder (app)",
+        "pageid": 40078184
+      },
+      {
+        "ns": 0,
+        "title": "Tindersticks",
+        "pageid": 612662
+      },
+      {
+        "ns": 0,
+        "title": "Tinderbox (Siouxsie and the Banshees album)",
+        "pageid": 2528818
+      },
+      {
+        "ns": 0,
+        "title": "The Tinder Swindler",
+        "pageid": 69972431
+      }
+    ]
+  }
+}

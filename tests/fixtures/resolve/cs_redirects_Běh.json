@@ -1,0 +1,19 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 163603,
+        "ns": 0,
+        "title": "Běh",
+        "redirects": [
+          {
+            "pageid": 308577,
+            "ns": 0,
+            "title": "Běhání"
+          }
+        ]
+      }
+    ]
+  }
+}

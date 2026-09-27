@@ -1,0 +1,23 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 21331306,
+        "ns": 0,
+        "title": "Learning English",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "'''Learning English''' may refer to:\n\n* [[BBC Learning English]], a department of the BBC World Service devoted to English language teaching\n* ''[[Learning English, Lesson One]]'', an album by the German punk band Die Toten Hosen\n* [[Learning English (version of English)|Learning English]], a controlled version (about 1500 words) of English used by Voice of America\n\n{{Disambiguation}}"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

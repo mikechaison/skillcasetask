@@ -1,0 +1,27 @@
+{
+  "entities": {
+    "Q866224": {
+      "type": "item",
+      "id": "Q866224",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "pickleball"
+        }
+      },
+      "sitelinks": {
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Pickleball",
+          "badges": []
+        },
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Pickleball",
+          "badges": []
+        }
+      }
+    }
+  },
+  "success": 1
+}

@@ -1,0 +1,41 @@
+{
+  "entities": {
+    "Q15078152": {
+      "type": "item",
+      "id": "Q15078152",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "Tinder"
+        },
+        "mul": {
+          "language": "mul",
+          "value": "Tinder"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "social network and dating platform"
+        }
+      }
+    },
+    "Q143518": {
+      "type": "item",
+      "id": "Q143518",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "tinder"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "flammable material used as initial fuel when igniting a fire"
+        }
+      }
+    }
+  },
+  "success": 1
+}

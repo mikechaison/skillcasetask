@@ -1,0 +1,15 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 163603,
+        "ns": 0,
+        "title": "Běh",
+        "pageprops": {
+          "wikibase_item": "Q105674"
+        }
+      }
+    ]
+  }
+}

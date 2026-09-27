@@ -1,0 +1,21 @@
+{
+  "entities": {
+    "Q308": {
+      "type": "item",
+      "id": "Q308",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "Mercury"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "first planet from the Solar System and smallest among all, tellurian and with extreme temperatures"
+        }
+      }
+    }
+  },
+  "success": 1
+}

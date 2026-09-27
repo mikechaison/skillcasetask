@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Astronomi",
+        "pageid": 494109
+      },
+      {
+        "ns": 0,
+        "title": "Astronomiens historie",
+        "pageid": 803667
+      },
+      {
+        "ns": 0,
+        "title": "Astronomisk enhet",
+        "pageid": 11618
+      },
+      {
+        "ns": 0,
+        "title": "Astronomical Journal",
+        "pageid": 1359402
+      },
+      {
+        "ns": 0,
+        "title": "Astronomiske symboler",
+        "pageid": 775483
+      }
+    ]
+  }
+}

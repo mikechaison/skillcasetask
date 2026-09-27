@@ -1,0 +1,15 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 4764461,
+        "ns": 0,
+        "title": "World War I",
+        "pageprops": {
+          "wikibase_item": "Q361"
+        }
+      }
+    ]
+  }
+}

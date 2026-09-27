@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Pilates",
+        "pageid": 491936
+      },
+      {
+        "ns": 0,
+        "title": "Joseph Pilates",
+        "pageid": 1514297
+      },
+      {
+        "ns": 0,
+        "title": "Pilates for Indie Rockers",
+        "pageid": 12575167
+      },
+      {
+        "ns": 0,
+        "title": "Pilates ball",
+        "pageid": 6597084
+      },
+      {
+        "ns": 0,
+        "title": "Pilates house",
+        "pageid": 31112586
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "AC/DC",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 199984
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "AC/DC",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 236961
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "AC/DC",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 197969
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "AC/DC",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 254867
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "AC/DC",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 269369
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "AC/DC",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 232605
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 28990,
+        "ns": 0,
+        "title": "Альберт Айнштайн",
+        "redirects": [
+          {
+            "pageid": 27801,
+            "ns": 0,
+            "title": "Айнштайн Альберт"
+          },
+          {
+            "pageid": 27803,
+            "ns": 0,
+            "title": "Ейнштейн Альберт"
+          },
+          {
+            "pageid": 1084622,
+            "ns": 0,
+            "title": "Ейнштейн"
+          },
+          {
+            "pageid": 3682222,
+            "ns": 0,
+            "title": "Аlbert Einstein"
+          },
+          {
+            "pageid": 4795207,
+            "ns": 0,
+            "title": "Альберт Енштейн"
+          },
+          {
+            "pageid": 5912380,
+            "ns": 0,
+            "title": "Альберт Ейнштейн"
+          }
+        ]
+      }
+    ]
+  }
+}

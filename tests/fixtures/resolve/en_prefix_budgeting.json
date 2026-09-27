@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Budgeting",
+        "pageid": 1348827
+      },
+      {
+        "ns": 0,
+        "title": "Budgeting loan",
+        "pageid": 47744286
+      },
+      {
+        "ns": 0,
+        "title": "Budgerigar",
+        "pageid": 201017
+      },
+      {
+        "ns": 0,
+        "title": "Bud Tingwell",
+        "pageid": 954692
+      },
+      {
+        "ns": 0,
+        "title": "Budgerigar colour genetics",
+        "pageid": 6225842
+      }
+    ]
+  }
+}

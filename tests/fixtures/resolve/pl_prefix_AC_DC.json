@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "AC/DC",
+        "pageid": 47187
+      },
+      {
+        "ns": 0,
+        "title": "AC/DC Live",
+        "pageid": 918307
+      },
+      {
+        "ns": 0,
+        "title": "AC/DC (elektronika)",
+        "pageid": 341338
+      },
+      {
+        "ns": 0,
+        "title": "AC Cobra",
+        "pageid": 258022
+      },
+      {
+        "ns": 0,
+        "title": "Accelerate (singel)",
+        "pageid": 4279293
+      }
+    ]
+  }
+}

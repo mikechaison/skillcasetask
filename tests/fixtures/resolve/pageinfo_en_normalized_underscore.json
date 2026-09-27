@@ -1,0 +1,22 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "intermittent_fasting",
+        "to": "Intermittent fasting"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 20104879,
+        "ns": 0,
+        "title": "Intermittent fasting",
+        "pageprops": {
+          "wikibase_item": "Q1666254"
+        }
+      }
+    ]
+  }
+}

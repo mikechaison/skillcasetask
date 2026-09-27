@@ -1,0 +1,12 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Ingrid Bugge",
+        "pageid": 1744851
+      }
+    ]
+  }
+}

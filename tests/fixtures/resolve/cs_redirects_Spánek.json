@@ -1,0 +1,29 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 71155,
+        "ns": 0,
+        "title": "Spánek",
+        "redirects": [
+          {
+            "pageid": 71156,
+            "ns": 0,
+            "title": "Spaní"
+          },
+          {
+            "pageid": 448773,
+            "ns": 0,
+            "title": "Náměsíčník"
+          },
+          {
+            "pageid": 853412,
+            "ns": 0,
+            "title": "Spánková porucha"
+          }
+        ]
+      }
+    ]
+  }
+}

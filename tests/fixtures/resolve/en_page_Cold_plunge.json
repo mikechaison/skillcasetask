@@ -1,0 +1,21 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "redirects": [
+      {
+        "from": "Cold plunge",
+        "to": "Ice bath"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 32750328,
+        "ns": 0,
+        "title": "Ice bath",
+        "pageprops": {
+          "wikibase_item": "Q5985390"
+        }
+      }
+    ]
+  }
+}

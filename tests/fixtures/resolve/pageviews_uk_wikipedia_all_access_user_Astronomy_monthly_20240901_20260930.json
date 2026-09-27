@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "project": "uk.wikipedia",
+      "article": "Astronomy",
+      "granularity": "monthly",
+      "timestamp": "2026070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2
+    },
+    {
+      "project": "uk.wikipedia",
+      "article": "Astronomy",
+      "granularity": "monthly",
+      "timestamp": "2026080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2
+    },
+    {
+      "project": "uk.wikipedia",
+      "article": "Astronomy",
+      "granularity": "monthly",
+      "timestamp": "2026090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    }
+  ]
+}

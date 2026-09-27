@@ -1,0 +1,12 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "English as a second or foreign language",
+        "pageid": 415406
+      }
+    ]
+  }
+}

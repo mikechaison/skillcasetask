@@ -1,0 +1,32 @@
+{
+  "entities": {
+    "Q110367996": {
+      "type": "item",
+      "id": "Q110367996",
+      "labels": {
+        "mul": {
+          "language": "mul",
+          "value": "Wordle"
+        }
+      },
+      "sitelinks": {
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Wordle",
+          "badges": []
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "Wordle",
+          "badges": []
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "Wordle",
+          "badges": []
+        }
+      }
+    }
+  },
+  "success": 1
+}

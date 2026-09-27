@@ -1,0 +1,99 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 377116,
+        "ns": 0,
+        "title": "Budget",
+        "redirects": [
+          {
+            "pageid": 1280522,
+            "ns": 0,
+            "title": "Budgets"
+          },
+          {
+            "pageid": 1348827,
+            "ns": 0,
+            "title": "Budgeting"
+          },
+          {
+            "pageid": 1828038,
+            "ns": 0,
+            "title": "Government Budget"
+          },
+          {
+            "pageid": 2955000,
+            "ns": 0,
+            "title": "Sound Budget"
+          },
+          {
+            "pageid": 3772531,
+            "ns": 0,
+            "title": "Financial act"
+          },
+          {
+            "pageid": 7218324,
+            "ns": 0,
+            "title": "Finanziaria"
+          },
+          {
+            "pageid": 12983658,
+            "ns": 0,
+            "title": "Annual budget"
+          },
+          {
+            "pageid": 13692620,
+            "ns": 0,
+            "title": "Budjet"
+          },
+          {
+            "pageid": 20435656,
+            "ns": 0,
+            "title": "Master budget"
+          },
+          {
+            "pageid": 21687018,
+            "ns": 0,
+            "title": "Comprehensive budget"
+          },
+          {
+            "pageid": 33311102,
+            "ns": 0,
+            "title": "Budget level"
+          },
+          {
+            "pageid": 33678902,
+            "ns": 0,
+            "title": "Annual budgeting"
+          },
+          {
+            "pageid": 52650456,
+            "ns": 0,
+            "title": "Budget law"
+          },
+          {
+            "pageid": 65871923,
+            "ns": 0,
+            "title": "Budget Analyst"
+          },
+          {
+            "pageid": 65871942,
+            "ns": 0,
+            "title": "Budget analyst"
+          },
+          {
+            "pageid": 69985226,
+            "ns": 0,
+            "title": "Budgeting process"
+          },
+          {
+            "pageid": 75615334,
+            "ns": 0,
+            "title": "Corporate budget"
+          }
+        ]
+      }
+    ]
+  }
+}

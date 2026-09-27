@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "ADHD",
+        "pageid": 72849
+      },
+      {
+        "ns": 0,
+        "title": "ADHD Syndrom",
+        "pageid": 5953147
+      },
+      {
+        "ns": 0,
+        "title": "Olivia Addams",
+        "pageid": 4944566
+      },
+      {
+        "ns": 0,
+        "title": "Addis Abeba",
+        "pageid": 8925
+      },
+      {
+        "ns": 0,
+        "title": "Addison Rae",
+        "pageid": 5103882
+      }
+    ]
+  }
+}

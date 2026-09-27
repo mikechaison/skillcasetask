@@ -1,0 +1,22 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Meritaton",
+        "pageid": 1375796
+      },
+      {
+        "ns": 0,
+        "title": "Meritaton Tasherit",
+        "pageid": 1577320
+      },
+      {
+        "ns": 0,
+        "title": "Meditativní minimalismus",
+        "pageid": 1552187
+      }
+    ]
+  }
+}

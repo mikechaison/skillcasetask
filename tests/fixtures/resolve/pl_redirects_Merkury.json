@@ -1,0 +1,24 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 3699,
+        "ns": 0,
+        "title": "Merkury",
+        "redirects": [
+          {
+            "pageid": 295951,
+            "ns": 0,
+            "title": "Merkury (planeta)"
+          },
+          {
+            "pageid": 1982558,
+            "ns": 0,
+            "title": "Równina Żaru"
+          }
+        ]
+      }
+    ]
+  }
+}

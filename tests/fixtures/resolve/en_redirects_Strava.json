@@ -1,0 +1,29 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 39823396,
+        "ns": 0,
+        "title": "Strava",
+        "redirects": [
+          {
+            "pageid": 53775721,
+            "ns": 0,
+            "title": "Strava art"
+          },
+          {
+            "pageid": 80123621,
+            "ns": 0,
+            "title": "Strava Art"
+          },
+          {
+            "pageid": 82988395,
+            "ns": 0,
+            "title": "Davis Kitchel"
+          }
+        ]
+      }
+    ]
+  }
+}

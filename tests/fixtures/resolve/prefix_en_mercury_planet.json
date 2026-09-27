@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Mercury (planet)",
+        "pageid": 19694
+      },
+      {
+        "ns": 0,
+        "title": "Mercury Planetary Orbiter",
+        "pageid": 30530520
+      },
+      {
+        "ns": 0,
+        "title": "Mercury (plant)",
+        "pageid": 41015434
+      },
+      {
+        "ns": 0,
+        "title": "Mercury Lane",
+        "pageid": 58730521
+      },
+      {
+        "ns": 0,
+        "title": "Mercury Players",
+        "pageid": 1467344
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 763,
+        "ns": 0,
+        "title": "Merkur (planeta)",
+        "redirects": [
+          {
+            "pageid": 110572,
+            "ns": 0,
+            "title": "☿"
+          },
+          {
+            "pageid": 235520,
+            "ns": 0,
+            "title": "Dobropán"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "One_meal_a_day",
+      "granularity": "monthly",
+      "timestamp": "2026060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "One_meal_a_day",
+      "granularity": "monthly",
+      "timestamp": "2026070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "One_meal_a_day",
+      "granularity": "monthly",
+      "timestamp": "2026080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "One_meal_a_day",
+      "granularity": "monthly",
+      "timestamp": "2026090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3
+    }
+  ]
+}

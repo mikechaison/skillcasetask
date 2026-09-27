@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Department_of_Astronomy",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Department_of_Astronomy",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Department_of_Astronomy",
+      "granularity": "monthly",
+      "timestamp": "2026030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Department_of_Astronomy",
+      "granularity": "monthly",
+      "timestamp": "2026040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Department_of_Astronomy",
+      "granularity": "monthly",
+      "timestamp": "2026050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Department_of_Astronomy",
+      "granularity": "monthly",
+      "timestamp": "2026060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 2
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Department_of_Astronomy",
+      "granularity": "monthly",
+      "timestamp": "2026070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Department_of_Astronomy",
+      "granularity": "monthly",
+      "timestamp": "2026080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Department_of_Astronomy",
+      "granularity": "monthly",
+      "timestamp": "2026090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 72849,
+        "ns": 0,
+        "title": "ADHD",
+        "redirects": [
+          {
+            "pageid": 72850,
+            "ns": 0,
+            "title": "Zespół nadpobudliwości psychoruchowej"
+          },
+          {
+            "pageid": 179451,
+            "ns": 0,
+            "title": "Hiperaktywność"
+          },
+          {
+            "pageid": 301711,
+            "ns": 0,
+            "title": "Zaburzenia hiperkinetyczne"
+          },
+          {
+            "pageid": 532485,
+            "ns": 0,
+            "title": "Zespoły nadpobudliwości ruchowej"
+          },
+          {
+            "pageid": 532486,
+            "ns": 0,
+            "title": "Zespół nadpobudliwości ruchowej"
+          },
+          {
+            "pageid": 1135358,
+            "ns": 0,
+            "title": "Zaburzenie hiperkinetyczne"
+          },
+          {
+            "pageid": 1259752,
+            "ns": 0,
+            "title": "Reakcje hiperkinetyczne"
+          },
+          {
+            "pageid": 2104953,
+            "ns": 0,
+            "title": "Nadpobudliwość"
+          }
+        ]
+      }
+    ]
+  }
+}

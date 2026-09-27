@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Tinder",
+        "pageid": 3455232
+      },
+      {
+        "ns": 0,
+        "title": "Tindersticks",
+        "pageid": 1865641
+      },
+      {
+        "ns": 0,
+        "title": "Jacopo Tintoretto",
+        "pageid": 112802
+      },
+      {
+        "ns": 0,
+        "title": "Tinkara Komar",
+        "pageid": 6008892
+      },
+      {
+        "ns": 0,
+        "title": "Tine Urnaut",
+        "pageid": 2012816
+      }
+    ]
+  }
+}

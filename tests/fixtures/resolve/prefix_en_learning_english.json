@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Learning English",
+        "pageid": 21331306
+      },
+      {
+        "ns": 0,
+        "title": "Learning English (version of English)",
+        "pageid": 252090
+      },
+      {
+        "ns": 0,
+        "title": "Learning English, Lesson One",
+        "pageid": 21331275
+      },
+      {
+        "ns": 0,
+        "title": "Learning English Wikipedia",
+        "pageid": 82299818
+      },
+      {
+        "ns": 0,
+        "title": "Learning English Lesson 3: Mersey Beat!",
+        "pageid": 65891088
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "entities": {
+    "Q105674": {
+      "type": "item",
+      "id": "Q105674",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "running"
+        }
+      },
+      "sitelinks": {
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Běh",
+          "badges": []
+        }
+      }
+    }
+  },
+  "success": 1
+}

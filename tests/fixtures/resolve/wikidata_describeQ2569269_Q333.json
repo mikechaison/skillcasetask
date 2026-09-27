@@ -1,0 +1,37 @@
+{
+  "entities": {
+    "Q2569269": {
+      "type": "item",
+      "id": "Q2569269",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "Astronomy"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "2006 studio album by Swedish power metal band Dragonland"
+        }
+      }
+    },
+    "Q333": {
+      "type": "item",
+      "id": "Q333",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "astronomy"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "natural science studying celestial objects and phenomena in the cosmos"
+        }
+      }
+    }
+  },
+  "success": 1
+}

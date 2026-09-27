@@ -1,0 +1,15 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 19694,
+        "ns": 0,
+        "title": "Mercury (planet)",
+        "pageprops": {
+          "wikibase_item": "Q308"
+        }
+      }
+    ]
+  }
+}

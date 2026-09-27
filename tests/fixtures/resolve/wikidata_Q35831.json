@@ -1,0 +1,27 @@
+{
+  "entities": {
+    "Q35831": {
+      "type": "item",
+      "id": "Q35831",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "sleep"
+        }
+      },
+      "sitelinks": {
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Spánek",
+          "badges": []
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "Sen",
+          "badges": []
+        }
+      }
+    }
+  },
+  "success": 1
+}

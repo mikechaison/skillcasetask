@@ -1,0 +1,61 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "sroffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "searchinfo": {
+      "totalhits": 6,
+      "suggestion": "intermittent falling",
+      "suggestionsnippet": "intermittent <em>falling</em>"
+    },
+    "search": [
+      {
+        "ns": 0,
+        "title": "Stres oksydacyjny",
+        "pageid": 1238433,
+        "size": 18535,
+        "wordcount": 1754,
+        "snippet": "alterations in cellular physiology produced by caloric restriction, <span class=\"searchmatch\">intermittent</span> <span class=\"searchmatch\">fasting</span>, exercise and dietary phytonutrients: &quot;Mitohormesis&quot; for health and",
+        "timestamp": "2026-09-05T17:33:43Z"
+      },
+      {
+        "ns": 0,
+        "title": "Głodówka lecznicza",
+        "pageid": 74017,
+        "size": 21829,
+        "wordcount": 2433,
+        "snippet": "FJ.F. Trepanowski John FJ.F., Krista AK.A. Varady Krista AK.A., <span class=\"searchmatch\">Intermittent</span> <span class=\"searchmatch\">fasting</span> combined with calorie restriction is effective for weight loss and",
+        "timestamp": "2026-03-28T01:31:22Z"
+      },
+      {
+        "ns": 0,
+        "title": "Paleolityczny styl życia",
+        "pageid": 3331077,
+        "size": 66610,
+        "wordcount": 6476,
+        "snippet": "Clinical Nutrition”. 86 (1), s. 7-13, 2007.  Adrienne Barnosky, et al. <span class=\"searchmatch\">Intermittent</span> <span class=\"searchmatch\">fasting</span> vs daily calorie restriction for type 2 diabetes prevention: a review",
+        "timestamp": "2026-07-18T09:44:16Z"
+      },
+      {
+        "ns": 0,
+        "title": "Skróty i skrótowce używane w medycynie",
+        "pageid": 46716,
+        "size": 59914,
+        "wordcount": 4655,
+        "snippet": "embrionale) FK – fosfataza kwaśna, ACP FPG – (ang.) stężenie glukozy na czczo (<span class=\"searchmatch\">Fasting</span> Plasma Glucose) FSH – hormon folikulotropowy fT3 – wolna trójjodotyronina",
+        "timestamp": "2026-07-06T18:44:55Z"
+      },
+      {
+        "ns": 0,
+        "title": "Chelatacja (medycyna)",
+        "pageid": 638258,
+        "size": 61678,
+        "wordcount": 6771,
+        "snippet": "[dostęp 2024-10-10]  (ang.). B.B. Guldager B.B. i inni, EDTA treatment of <span class=\"searchmatch\">intermittent</span> claudication--a double-blind, placebo-controlled study, „Journal of Internal",
+        "timestamp": "2025-08-02T06:08:48Z"
+      }
+    ]
+  }
+}

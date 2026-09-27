@@ -1,0 +1,61 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "sroffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "searchinfo": {
+      "totalhits": 11,
+      "suggestion": "intermittent falling",
+      "suggestionsnippet": "intermittent <em>falling</em>"
+    },
+    "search": [
+      {
+        "ns": 0,
+        "title": "Інтервальне голодування",
+        "pageid": 3283494,
+        "size": 16144,
+        "wordcount": 1397,
+        "snippet": "Wayback Machine.] 1plus1.ua (англ.) Hall, Harriet (15 грудня 2015). <span class=\"searchmatch\">Intermittent</span> <span class=\"searchmatch\">fasting</span>. Science-Based Medicine. Архів оригіналу за 11 жовтня 2019. Процитовано",
+        "timestamp": "2025-02-12T02:50:46Z"
+      },
+      {
+        "ns": 0,
+        "title": "Схуднення",
+        "pageid": 2167393,
+        "size": 17401,
+        "wordcount": 1437,
+        "snippet": "evidence of diets for weight loss: Different macronutrient composition, <span class=\"searchmatch\">intermittent</span> <span class=\"searchmatch\">fasting</span>, and popular diets. Nutrition. 69: 110549. doi:10.1016/j.nut.2019",
+        "timestamp": "2026-03-18T20:12:47Z"
+      },
+      {
+        "ns": 0,
+        "title": "Ожиріння",
+        "pageid": 267108,
+        "size": 183868,
+        "wordcount": 13663,
+        "snippet": "evidence of diets for weight loss: Different macronutrient composition, <span class=\"searchmatch\">intermittent</span> <span class=\"searchmatch\">fasting</span>, and popular diets. Nutrition. 69: 110549. doi:10.1016/j.nut.2019",
+        "timestamp": "2026-08-30T04:51:40Z"
+      },
+      {
+        "ns": 0,
+        "title": "Здоровий спосіб життя",
+        "pageid": 1037486,
+        "size": 202361,
+        "wordcount": 18080,
+        "snippet": "Mattson, Mark P. (26 грудня 2019). Longo, Dan L. (ред.). Effects of <span class=\"searchmatch\">Intermittent</span> <span class=\"searchmatch\">Fasting</span> on Health, Aging, and Disease. New England Journal of Medicine (англ",
+        "timestamp": "2026-07-06T19:09:30Z"
+      },
+      {
+        "ns": 0,
+        "title": "Обмеження калорійності",
+        "pageid": 4959628,
+        "size": 33403,
+        "wordcount": 2916,
+        "snippet": "Smith SE, Ros E (Вересень 2020). A pesco-Mediterranean diet with <span class=\"searchmatch\">intermittent</span> <span class=\"searchmatch\">fasting</span>: JACC Review Topic of the Week. Journal of the American College of",
+        "timestamp": "2026-05-31T19:45:40Z"
+      }
+    ]
+  }
+}

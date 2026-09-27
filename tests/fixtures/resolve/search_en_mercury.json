@@ -1,0 +1,59 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "sroffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "searchinfo": {
+      "totalhits": 71618
+    },
+    "search": [
+      {
+        "ns": 0,
+        "title": "Mercury",
+        "pageid": 19007,
+        "size": 8290,
+        "wordcount": 976,
+        "snippet": "up <span class=\"searchmatch\">Mercury</span> or <span class=\"searchmatch\">mercury</span> in Wiktionary, the free dictionary. <span class=\"searchmatch\">Mercury</span> most commonly refers to: <span class=\"searchmatch\">Mercury</span> (planet), the closest planet to the Sun <span class=\"searchmatch\">Mercury</span> (element)",
+        "timestamp": "2026-09-21T18:47:15Z"
+      },
+      {
+        "ns": 0,
+        "title": "Mercury (planet)",
+        "pageid": 19694,
+        "size": 160465,
+        "wordcount": 16171,
+        "snippet": "<span class=\"searchmatch\">Mercury</span> is the first planet from the Sun and the smallest in the Solar System. It is a rocky planet with a trace atmosphere and a surface gravity slightly",
+        "timestamp": "2026-09-24T17:36:39Z"
+      },
+      {
+        "ns": 0,
+        "title": "Mercury (element)",
+        "pageid": 18617142,
+        "size": 128874,
+        "wordcount": 13469,
+        "snippet": "<span class=\"searchmatch\">Mercury</span> is a chemical element; it has symbol Hg (from Latin hydrargyrum) and atomic number 80. It is commonly known as quicksilver. A heavy, silvery d-block",
+        "timestamp": "2026-09-17T02:43:49Z"
+      },
+      {
+        "ns": 0,
+        "title": "Freddie Mercury",
+        "pageid": 42068,
+        "size": 191784,
+        "wordcount": 17319,
+        "snippet": "Freddie <span class=\"searchmatch\">Mercury</span> (born Farrokh Bulsara; 5 September 1946 – 24 November 1991) was a British singer and songwriter who achieved global fame as the lead vocalist",
+        "timestamp": "2026-09-19T06:33:48Z"
+      },
+      {
+        "ns": 0,
+        "title": "Mercury Records",
+        "pageid": 325909,
+        "size": 40107,
+        "wordcount": 4260,
+        "snippet": "<span class=\"searchmatch\">Mercury</span> Records is an American record label owned by Universal Music Group. It had significant success as an independent operation in the 1940s and 1950s",
+        "timestamp": "2026-08-31T09:26:11Z"
+      }
+    ]
+  }
+}

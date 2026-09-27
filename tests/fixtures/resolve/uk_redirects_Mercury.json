@@ -1,0 +1,19 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 853278,
+        "ns": 0,
+        "title": "Mercury",
+        "redirects": [
+          {
+            "pageid": 1358581,
+            "ns": 0,
+            "title": "Mercury (automobile)"
+          }
+        ]
+      }
+    ]
+  }
+}

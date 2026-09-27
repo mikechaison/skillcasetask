@@ -1,0 +1,22 @@
+{
+  "entities": {
+    "Q937": {
+      "type": "item",
+      "id": "Q937",
+      "labels": {
+        "mul": {
+          "language": "mul",
+          "value": "Albert Einstein"
+        }
+      },
+      "sitelinks": {
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "Альберт Айнштайн",
+          "badges": []
+        }
+      }
+    }
+  },
+  "success": 1
+}

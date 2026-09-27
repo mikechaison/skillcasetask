@@ -1,0 +1,32 @@
+{
+  "entities": {
+    "Q41263": {
+      "type": "item",
+      "id": "Q41263",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "budget"
+        }
+      },
+      "sitelinks": {
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Rozpočet",
+          "badges": []
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Budget",
+          "badges": []
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "Budżet",
+          "badges": []
+        }
+      }
+    }
+  },
+  "success": 1
+}

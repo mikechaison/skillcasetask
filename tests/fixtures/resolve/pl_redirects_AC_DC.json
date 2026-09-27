@@ -1,0 +1,24 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 47187,
+        "ns": 0,
+        "title": "AC/DC",
+        "redirects": [
+          {
+            "pageid": 1300445,
+            "ns": 0,
+            "title": "ACDC"
+          },
+          {
+            "pageid": 6011027,
+            "ns": 0,
+            "title": "AC DC"
+          }
+        ]
+      }
+    ]
+  }
+}

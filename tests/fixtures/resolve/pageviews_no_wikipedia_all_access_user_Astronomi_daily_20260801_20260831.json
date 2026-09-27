@@ -1,0 +1,283 @@
+{
+  "items": [
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026080200",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026080300",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026080400",
+      "access": "all-access",
+      "agent": "user",
+      "views": 13
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026080500",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026080600",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026080700",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026080800",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026080900",
+      "access": "all-access",
+      "agent": "user",
+      "views": 9
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026081000",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026081100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 11
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026081200",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026081300",
+      "access": "all-access",
+      "agent": "user",
+      "views": 0
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026081400",
+      "access": "all-access",
+      "agent": "user",
+      "views": 3
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026081500",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026081600",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026081700",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026081800",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026081900",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026082000",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026082100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026082200",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026082300",
+      "access": "all-access",
+      "agent": "user",
+      "views": 6
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026082400",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026082500",
+      "access": "all-access",
+      "agent": "user",
+      "views": 7
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026082600",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026082700",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026082800",
+      "access": "all-access",
+      "agent": "user",
+      "views": 8
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026082900",
+      "access": "all-access",
+      "agent": "user",
+      "views": 4
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026083000",
+      "access": "all-access",
+      "agent": "user",
+      "views": 1
+    },
+    {
+      "project": "no.wikipedia",
+      "article": "Astronomi",
+      "granularity": "daily",
+      "timestamp": "2026083100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 5
+    }
+  ]
+}

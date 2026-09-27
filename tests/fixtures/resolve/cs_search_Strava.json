@@ -1,0 +1,59 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "sroffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "searchinfo": {
+      "totalhits": 3087
+    },
+    "search": [
+      {
+        "ns": 0,
+        "title": "Strava",
+        "pageid": 1635976,
+        "size": 333,
+        "wordcount": 86,
+        "snippet": "<span class=\"searchmatch\">Strava</span> má více významů: Potrava – souhrn látek určených k výživě živočichů <span class=\"searchmatch\">Strava</span> (aplikace) – webová stránka a mobilní aplikace pro měření atletické",
+        "timestamp": "2026-09-18T13:38:06Z"
+      },
+      {
+        "ns": 0,
+        "title": "Strava v letecké dopravě",
+        "pageid": 207513,
+        "size": 4533,
+        "wordcount": 488,
+        "snippet": "zdravotního stavu, přesvědčení, či náboženského vyznání. Běžně musí být speciální <span class=\"searchmatch\">strava</span> objednána několik hodin nebo dnů před odletem, a v případě, že se tak nestane",
+        "timestamp": "2025-08-20T14:25:37Z"
+      },
+      {
+        "ns": 0,
+        "title": "Plně bezmasá strava",
+        "pageid": 915798,
+        "size": 2842,
+        "wordcount": 329,
+        "snippet": "(VegFood). Rostlinná <span class=\"searchmatch\">strava</span> s omezenou nebo pouze příležitostnou konzumací masa je částečně bezmasá <span class=\"searchmatch\">strava</span>. Některé formy plně bezmasé <span class=\"searchmatch\">stravy</span>: Vegetariánství",
+        "timestamp": "2024-05-23T15:15:43Z"
+      },
+      {
+        "ns": 0,
+        "title": "Středomořská strava",
+        "pageid": 702442,
+        "size": 18886,
+        "wordcount": 1845,
+        "snippet": "Středomořská <span class=\"searchmatch\">strava</span> (označována také výrazem středomořská dieta, španělsky dieta mediterránea) představuje způsob stravování a životní styl, který je společný",
+        "timestamp": "2025-11-06T08:23:40Z"
+      },
+      {
+        "ns": 0,
+        "title": "Částečně bezmasá strava",
+        "pageid": 709011,
+        "size": 9143,
+        "wordcount": 681,
+        "snippet": "bezmasá <span class=\"searchmatch\">strava</span>, známá také jako flexitariánská <span class=\"searchmatch\">strava</span> nebo semi-vegetariánská <span class=\"searchmatch\">strava</span>, je způsob stravování, který se vyznačuje konzumací rostlinné <span class=\"searchmatch\">stravy</span> s",
+        "timestamp": "2026-06-24T21:14:36Z"
+      }
+    ]
+  }
+}

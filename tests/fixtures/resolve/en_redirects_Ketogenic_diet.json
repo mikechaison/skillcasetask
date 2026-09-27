@@ -1,0 +1,74 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 791546,
+        "ns": 0,
+        "title": "Ketogenic diet",
+        "redirects": [
+          {
+            "pageid": 974402,
+            "ns": 0,
+            "title": "Ketogenic Diet"
+          },
+          {
+            "pageid": 14896892,
+            "ns": 0,
+            "title": "Ketogenic diet (Epilepsy)"
+          },
+          {
+            "pageid": 14914411,
+            "ns": 0,
+            "title": "Ketogenic diet (epilepsy)"
+          },
+          {
+            "pageid": 17482352,
+            "ns": 0,
+            "title": "Ketogenic diet (generic)"
+          },
+          {
+            "pageid": 18225777,
+            "ns": 0,
+            "title": "Ketocal"
+          },
+          {
+            "pageid": 68475038,
+            "ns": 0,
+            "title": "Modified Atkins diet"
+          },
+          {
+            "pageid": 71013552,
+            "ns": 0,
+            "title": "High-fat diet"
+          },
+          {
+            "pageid": 71293275,
+            "ns": 0,
+            "title": "Ketogenic diets"
+          },
+          {
+            "pageid": 72548020,
+            "ns": 0,
+            "title": "Very low carbohydrate diet"
+          },
+          {
+            "pageid": 76766469,
+            "ns": 0,
+            "title": "Ketogenic diet (epilepsy treatment)"
+          },
+          {
+            "pageid": 84050641,
+            "ns": 0,
+            "title": "MCT diet"
+          },
+          {
+            "pageid": 84050666,
+            "ns": 0,
+            "title": "Modified Atkins"
+          }
+        ]
+      }
+    ]
+  }
+}

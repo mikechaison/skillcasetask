@@ -1,0 +1,267 @@
+{
+  "continue": {
+    "rdcontinue": "26534702",
+    "continue": "||"
+  },
+  "query": {
+    "pages": [
+      {
+        "pageid": 64976,
+        "ns": 0,
+        "title": "Attention deficit hyperactivity disorder",
+        "redirects": [
+          {
+            "pageid": 1399,
+            "ns": 0,
+            "title": "ADHD"
+          },
+          {
+            "pageid": 65214,
+            "ns": 0,
+            "title": "Hyperkinetic syndrome"
+          },
+          {
+            "pageid": 65215,
+            "ns": 0,
+            "title": "Minimal cerebral dysfunction"
+          },
+          {
+            "pageid": 65245,
+            "ns": 0,
+            "title": "Attention Deficit Hyperactivity Disorder"
+          },
+          {
+            "pageid": 65246,
+            "ns": 0,
+            "title": "Attention Deficit Disorder"
+          },
+          {
+            "pageid": 231311,
+            "ns": 0,
+            "title": "Attention deficit/hyperactivity disorder"
+          },
+          {
+            "pageid": 246855,
+            "ns": 0,
+            "title": "Attention Deficit/Hyperactivity Disorder"
+          },
+          {
+            "pageid": 246859,
+            "ns": 0,
+            "title": "Attention Deficiency Disorder"
+          },
+          {
+            "pageid": 246860,
+            "ns": 0,
+            "title": "Attention Deficiency Hyperactivity Disorder"
+          },
+          {
+            "pageid": 246861,
+            "ns": 0,
+            "title": "Attention Deficiency Hyperactivity Syndrome"
+          },
+          {
+            "pageid": 246862,
+            "ns": 0,
+            "title": "Attention Deficiency Syndrome"
+          },
+          {
+            "pageid": 246863,
+            "ns": 0,
+            "title": "Attention Deficiency/Hyperactivity Disorder"
+          },
+          {
+            "pageid": 246864,
+            "ns": 0,
+            "title": "Attention Deficiency/Hyperactivity Syndrome"
+          },
+          {
+            "pageid": 285966,
+            "ns": 0,
+            "title": "Attention-Deficit Disorder (ADD, ADHD)"
+          },
+          {
+            "pageid": 513576,
+            "ns": 0,
+            "title": "Attention Deficit Disorder with Hyperactivity"
+          },
+          {
+            "pageid": 531799,
+            "ns": 0,
+            "title": "Minimal Brain Dysfunction"
+          },
+          {
+            "pageid": 728557,
+            "ns": 0,
+            "title": "Attention-Deficit Hyperactivity Disorder"
+          },
+          {
+            "pageid": 1150984,
+            "ns": 0,
+            "title": "Hyperactivity disorder"
+          },
+          {
+            "pageid": 1460038,
+            "ns": 0,
+            "title": "Attention-Deficit Hyperactivity Syndrome"
+          },
+          {
+            "pageid": 1595531,
+            "ns": 0,
+            "title": "Attention deflict distorder"
+          },
+          {
+            "pageid": 1744900,
+            "ns": 0,
+            "title": "ADD/ADHD"
+          },
+          {
+            "pageid": 1828387,
+            "ns": 0,
+            "title": "Attention-Deficit/hyperactivity Disorder"
+          },
+          {
+            "pageid": 1930775,
+            "ns": 0,
+            "title": "Attention-Deficit Disorder"
+          },
+          {
+            "pageid": 1995594,
+            "ns": 0,
+            "title": "Attention deficit hyperactivity disorder predominantly hyperactive-impulsive"
+          },
+          {
+            "pageid": 1995596,
+            "ns": 0,
+            "title": "Attention deficit, w/ hyperactivity"
+          },
+          {
+            "pageid": 2310250,
+            "ns": 0,
+            "title": "Hyperkinetic conduct disorder"
+          },
+          {
+            "pageid": 2768091,
+            "ns": 0,
+            "title": "ADHD: developmental disorder or parenting"
+          },
+          {
+            "pageid": 2978954,
+            "ns": 0,
+            "title": "Disturbance of activity and attention"
+          },
+          {
+            "pageid": 3226576,
+            "ns": 0,
+            "title": "Adhd"
+          },
+          {
+            "pageid": 3982802,
+            "ns": 0,
+            "title": "Attention Deficit Syndrome"
+          },
+          {
+            "pageid": 4098967,
+            "ns": 0,
+            "title": "Childhood ADHD"
+          },
+          {
+            "pageid": 4216236,
+            "ns": 0,
+            "title": "Attention Deficit Hyperactive Disorder"
+          },
+          {
+            "pageid": 4352623,
+            "ns": 0,
+            "title": "A.D.H.D."
+          },
+          {
+            "pageid": 4939915,
+            "ns": 0,
+            "title": "Attention-deficit disorder"
+          },
+          {
+            "pageid": 4974764,
+            "ns": 0,
+            "title": "AD/HD"
+          },
+          {
+            "pageid": 8001000,
+            "ns": 0,
+            "title": "Predominantly Hyperactive-Impulsive Type"
+          },
+          {
+            "pageid": 8840768,
+            "ns": 0,
+            "title": "Attention Defecit Disorder"
+          },
+          {
+            "pageid": 10074108,
+            "ns": 0,
+            "title": "Attention-deficit/hyperactivity disorder"
+          },
+          {
+            "pageid": 11402137,
+            "ns": 0,
+            "title": "Attention deficit-hyperactivity disorder"
+          },
+          {
+            "pageid": 11856876,
+            "ns": 0,
+            "title": "Attention deficit hyperactive syndrome"
+          },
+          {
+            "pageid": 17239828,
+            "ns": 0,
+            "title": "Hyperactive disorder"
+          },
+          {
+            "pageid": 19563784,
+            "ns": 0,
+            "title": "Hyperkinetic Reaction of Childhood"
+          },
+          {
+            "pageid": 20878629,
+            "ns": 0,
+            "title": "Minimal brain damage"
+          },
+          {
+            "pageid": 20878631,
+            "ns": 0,
+            "title": "Minimal brain dysfunction"
+          },
+          {
+            "pageid": 22081573,
+            "ns": 0,
+            "title": "Attention deficit disorder with hyperactivity"
+          },
+          {
+            "pageid": 22403135,
+            "ns": 0,
+            "title": "Attention-deficit hyperactive disorder"
+          },
+          {
+            "pageid": 22833748,
+            "ns": 0,
+            "title": "Attention-Deficit/Hyperactivity Disorder"
+          },
+          {
+            "pageid": 23729628,
+            "ns": 0,
+            "title": "Diet and attention deficit hyperactivity disorder"
+          },
+          {
+            "pageid": 25248088,
+            "ns": 0,
+            "title": "Minimal Brain Disorder"
+          },
+          {
+            "pageid": 25278706,
+            "ns": 0,
+            "title": "Antihyperkinetic"
+          }
+        ]
+      }
+    ]
+  }
+}

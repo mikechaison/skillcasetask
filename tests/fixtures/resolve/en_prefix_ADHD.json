@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "ADHD",
+        "pageid": 1399
+      },
+      {
+        "ns": 0,
+        "title": "ADHD Rating Scale",
+        "pageid": 47192433
+      },
+      {
+        "ns": 0,
+        "title": "ADHD (Joyner Lucas album)",
+        "pageid": 58809459
+      },
+      {
+        "ns": 0,
+        "title": "ADHD Shorts",
+        "pageid": 46987750
+      },
+      {
+        "ns": 0,
+        "title": "ADHD 2",
+        "pageid": 80234371
+      }
+    ]
+  }
+}

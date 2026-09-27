@@ -1,0 +1,38 @@
+{
+  "entities": {
+    "Q308": {
+      "type": "item",
+      "id": "Q308",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "Mercury"
+        }
+      },
+      "sitelinks": {
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Merkur (planeta)",
+          "badges": [
+            "Q17437796"
+          ]
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Mercury (planet)",
+          "badges": [
+            "Q17437796"
+          ]
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "Merkury",
+          "badges": [
+            "Q17437796"
+          ]
+        }
+      }
+    }
+  },
+  "success": 1
+}

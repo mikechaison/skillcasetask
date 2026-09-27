@@ -1,0 +1,19 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 20127,
+        "ns": 0,
+        "title": "Medytacja",
+        "redirects": [
+          {
+            "pageid": 1321390,
+            "ns": 0,
+            "title": "Dhyāna"
+          }
+        ]
+      }
+    ]
+  }
+}

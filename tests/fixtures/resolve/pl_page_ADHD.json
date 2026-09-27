@@ -1,0 +1,15 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 72849,
+        "ns": 0,
+        "title": "ADHD",
+        "pageprops": {
+          "wikibase_item": "Q181923"
+        }
+      }
+    ]
+  }
+}

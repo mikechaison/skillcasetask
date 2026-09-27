@@ -1,0 +1,15 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 69837,
+        "ns": 0,
+        "title": "Meditace",
+        "pageprops": {
+          "wikibase_item": "Q108458"
+        }
+      }
+    ]
+  }
+}

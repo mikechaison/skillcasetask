@@ -1,0 +1,15 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 6041,
+        "ns": 0,
+        "title": "Sen",
+        "pageprops": {
+          "wikibase_item": "Q35831"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Running",
+        "pageid": 26032
+      },
+      {
+        "ns": 0,
+        "title": "Running Man (TV program)",
+        "pageid": 28092101
+      },
+      {
+        "ns": 0,
+        "title": "Running Point",
+        "pageid": 77608889
+      },
+      {
+        "ns": 0,
+        "title": "The Running Man (2025 film)",
+        "pageid": 66825010
+      },
+      {
+        "ns": 0,
+        "title": "Running back",
+        "pageid": 295079
+      }
+    ]
+  }
+}

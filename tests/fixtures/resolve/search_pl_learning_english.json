@@ -1,0 +1,59 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "sroffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "searchinfo": {
+      "totalhits": 197
+    },
+    "search": [
+      {
+        "ns": 0,
+        "title": "Learning English, Lesson One",
+        "pageid": 1859631,
+        "size": 3905,
+        "wordcount": 302,
+        "snippet": "<span class=\"searchmatch\">Learning</span> <span class=\"searchmatch\">English</span>, Lesson One – studyjny album niemieckiego zespołu punkrockowego Die Toten Hosen, wydany 11 listopada 1990 roku. „<span class=\"searchmatch\">Learning</span> <span class=\"searchmatch\">English</span> - Step",
+        "timestamp": "2019-08-30T09:43:39Z"
+      },
+      {
+        "ns": 0,
+        "title": "Lucy Bella Earl",
+        "pageid": 5247301,
+        "size": 11788,
+        "wordcount": 911,
+        "snippet": "Indonezji (Putri Andini, Zaitun: The Effectiveness of <span class=\"searchmatch\">Learning</span> Pronunciation Through <span class=\"searchmatch\">English</span> Content by <span class=\"searchmatch\">English</span> With Lucy on YouTube : Universitas Muhammadiyah",
+        "timestamp": "2026-08-05T05:58:54Z"
+      },
+      {
+        "ns": 0,
+        "title": "Singlish",
+        "pageid": 1098566,
+        "size": 7114,
+        "wordcount": 278,
+        "snippet": "XLVI, 2008, s. 149–157  (ang.). MadalenaM. Cruz-Ferreira MadalenaM., <span class=\"searchmatch\">Learning</span> <span class=\"searchmatch\">English</span> in Singapore: Pronunciation Targets and Norms, [w:] Rita ElaineR.E",
+        "timestamp": "2025-05-29T18:42:45Z"
+      },
+      {
+        "ns": 0,
+        "title": "Die Toten Hosen",
+        "pageid": 91559,
+        "size": 35610,
+        "wordcount": 3753,
+        "snippet": "w liczbie 150 tys. sztuk. W 1991 roku ukazał się dwupłytowy album <span class=\"searchmatch\">Learning</span> <span class=\"searchmatch\">English</span>, Lesson One, który uważany jest za jeden z najlepszych albumów coverów",
+        "timestamp": "2025-04-02T05:36:53Z"
+      },
+      {
+        "ns": 0,
+        "title": "Youtuber",
+        "pageid": 4570650,
+        "size": 13686,
+        "wordcount": 336,
+        "snippet": "2018 [dostęp 2026-04-04]  (ang.). JustynaJ. Ostafińska JustynaJ., <span class=\"searchmatch\">Learning</span> <span class=\"searchmatch\">English</span> language pronunciation with YouTube. An evaluation of two popular educational",
+        "timestamp": "2026-09-22T06:16:36Z"
+      }
+    ]
+  }
+}

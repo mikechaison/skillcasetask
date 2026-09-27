@@ -1,0 +1,59 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "sroffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "searchinfo": {
+      "totalhits": 150
+    },
+    "search": [
+      {
+        "ns": 0,
+        "title": "For Meditation (album)",
+        "pageid": 1524397,
+        "size": 1760,
+        "wordcount": 179,
+        "snippet": "doplněním referencí na věrohodné zdroje. For <span class=\"searchmatch\">Meditation</span> je album slovenské beatové kapely For <span class=\"searchmatch\">Meditation</span> / The Meditating Four, kde skladby byly nahrané",
+        "timestamp": "2019-10-07T19:15:04Z"
+      },
+      {
+        "ns": 0,
+        "title": "The Meditating Four",
+        "pageid": 853453,
+        "size": 1593,
+        "wordcount": 181,
+        "snippet": "For <span class=\"searchmatch\">Meditation</span> / The Meditating Four byla slovenská bigbítová skupina, založená lídrem Jozefem Barinou. Skupina vznikla na podzim v roce 1967 z kapely",
+        "timestamp": "2025-11-23T20:13:28Z"
+      },
+      {
+        "ns": 0,
+        "title": "Jon Kabat-Zinn",
+        "pageid": 934008,
+        "size": 12165,
+        "wordcount": 1165,
+        "snippet": "setkání s Philipem Kapleau, učitelem zen buddhismu. Vystudoval Insight <span class=\"searchmatch\">Meditation</span> Society, kde také občasně učil. Roku 1979 založil Kliniku snižování stresu",
+        "timestamp": "2024-09-13T11:37:13Z"
+      },
+      {
+        "ns": 0,
+        "title": "Harmonic Meditations",
+        "pageid": 217243,
+        "size": 2482,
+        "wordcount": 249,
+        "snippet": "Magicians. &quot;Unity <span class=\"searchmatch\">Meditation</span> One&quot; – 7:17 &quot;Trio <span class=\"searchmatch\">Meditation</span> One&quot; – 5:02 &quot;Unity <span class=\"searchmatch\">Meditation</span> Two&quot; – 5:38 &quot;Trio <span class=\"searchmatch\">Meditation</span> Two&quot; – 3:58 &quot;Unity <span class=\"searchmatch\">Meditation</span> Three&quot; – 6",
+        "timestamp": "2025-08-06T12:21:15Z"
+      },
+      {
+        "ns": 0,
+        "title": "Long Ambients 2",
+        "pageid": 1517525,
+        "size": 2656,
+        "wordcount": 151,
+        "snippet": "z roku 2016. MIDDLETON, Ryan. Moby Releases New Album &#039;Long Ambients 2&#039; On <span class=\"searchmatch\">Meditation</span> &amp; Sleep App Calm [online]. Magnetic, 2019-03-19 [cit. 2019-08-22]. Dostupné",
+        "timestamp": "2021-08-08T18:33:48Z"
+      }
+    ]
+  }
+}

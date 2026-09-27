@@ -1,0 +1,27 @@
+{
+  "entities": {
+    "Q130192": {
+      "type": "item",
+      "id": "Q130192",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "English as a second or foreign language"
+        }
+      },
+      "sitelinks": {
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Englisch als Zweitsprache",
+          "badges": []
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "English as a second or foreign language",
+          "badges": []
+        }
+      }
+    }
+  },
+  "success": 1
+}

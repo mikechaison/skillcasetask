@@ -1,0 +1,139 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 20104879,
+        "ns": 0,
+        "title": "Intermittent fasting",
+        "redirects": [
+          {
+            "pageid": 20122878,
+            "ns": 0,
+            "title": "Alternate day fasting"
+          },
+          {
+            "pageid": 20122901,
+            "ns": 0,
+            "title": "Every other day fasting"
+          },
+          {
+            "pageid": 20123041,
+            "ns": 0,
+            "title": "EOD fasting"
+          },
+          {
+            "pageid": 26224388,
+            "ns": 0,
+            "title": "Alternate-day fasting"
+          },
+          {
+            "pageid": 36982602,
+            "ns": 0,
+            "title": "5:2 diet"
+          },
+          {
+            "pageid": 36982765,
+            "ns": 0,
+            "title": "5/2 diet"
+          },
+          {
+            "pageid": 42564371,
+            "ns": 0,
+            "title": "Fast diet"
+          },
+          {
+            "pageid": 49544503,
+            "ns": 0,
+            "title": "Five-two"
+          },
+          {
+            "pageid": 52824319,
+            "ns": 0,
+            "title": "Intermittant fasting"
+          },
+          {
+            "pageid": 56250673,
+            "ns": 0,
+            "title": "Time-restricted feeding"
+          },
+          {
+            "pageid": 61962847,
+            "ns": 0,
+            "title": "Intermittent energy restriction"
+          },
+          {
+            "pageid": 61962882,
+            "ns": 0,
+            "title": "Intermittent calorie restriction"
+          },
+          {
+            "pageid": 62206100,
+            "ns": 0,
+            "title": "Intermittent feeding"
+          },
+          {
+            "pageid": 62206105,
+            "ns": 0,
+            "title": "Bolus feeding"
+          },
+          {
+            "pageid": 64427570,
+            "ns": 0,
+            "title": "Time-restricted fasting"
+          },
+          {
+            "pageid": 66709128,
+            "ns": 0,
+            "title": "Periodic fasting"
+          },
+          {
+            "pageid": 70137118,
+            "ns": 0,
+            "title": "Omad diet"
+          },
+          {
+            "pageid": 70137120,
+            "ns": 0,
+            "title": "One meal a day diet"
+          },
+          {
+            "pageid": 70916342,
+            "ns": 0,
+            "title": "Warrior diet"
+          },
+          {
+            "pageid": 70955350,
+            "ns": 0,
+            "title": "Fat fasting"
+          },
+          {
+            "pageid": 71303013,
+            "ns": 0,
+            "title": "Time-restricted eating"
+          },
+          {
+            "pageid": 71303015,
+            "ns": 0,
+            "title": "Time restricted eating"
+          },
+          {
+            "pageid": 71543300,
+            "ns": 0,
+            "title": "OMAD"
+          },
+          {
+            "pageid": 71942143,
+            "ns": 0,
+            "title": "Early time restricted feeding"
+          },
+          {
+            "pageid": 83515115,
+            "ns": 0,
+            "title": "One meal a day"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "entities": {
+    "Q5985390": {
+      "type": "item",
+      "id": "Q5985390",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "ice bath"
+        }
+      },
+      "sitelinks": {
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Ice bathing",
+          "badges": []
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Ice bath",
+          "badges": []
+        }
+      }
+    }
+  },
+  "success": 1
+}

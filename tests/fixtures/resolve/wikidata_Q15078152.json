@@ -1,0 +1,36 @@
+{
+  "entities": {
+    "Q15078152": {
+      "type": "item",
+      "id": "Q15078152",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "Tinder"
+        },
+        "mul": {
+          "language": "mul",
+          "value": "Tinder"
+        }
+      },
+      "sitelinks": {
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Tinder",
+          "badges": []
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Tinder (app)",
+          "badges": []
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "Tinder",
+          "badges": []
+        }
+      }
+    }
+  },
+  "success": 1
+}

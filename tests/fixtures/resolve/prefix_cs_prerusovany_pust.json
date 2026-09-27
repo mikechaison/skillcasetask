@@ -1,0 +1,12 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Přerušovaný půst",
+        "pageid": 1632302
+      }
+    ]
+  }
+}

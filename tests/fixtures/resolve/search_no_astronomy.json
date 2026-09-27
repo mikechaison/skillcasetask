@@ -1,0 +1,59 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "sroffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "searchinfo": {
+      "totalhits": 800
+    },
+    "search": [
+      {
+        "ns": 0,
+        "title": "Astronomy Domine",
+        "pageid": 713567,
+        "size": 5626,
+        "wordcount": 489,
+        "snippet": "«<span class=\"searchmatch\">Astronomy</span> Domine» er en låt fra det engelske bandet Pink Floyds debutalbum The Piper at the Gates of Dawn, utgitt i 1967. Opptaket har god kvalitet for",
+        "timestamp": "2026-08-09T08:30:39Z"
+      },
+      {
+        "ns": 0,
+        "title": "Phil Plait",
+        "pageid": 457344,
+        "size": 2449,
+        "wordcount": 321,
+        "snippet": "sin nye bok Death from the Skies. Han har tidligere utgitt boken Bad <span class=\"searchmatch\">Astronomy</span>. Plait vokste opp i Washington, D.C.-området og bodde der i mange år.",
+        "timestamp": "2023-06-03T12:48:09Z"
+      },
+      {
+        "ns": 0,
+        "title": "Arecibo-observatoriet",
+        "pageid": 904635,
+        "size": 1805,
+        "wordcount": 167,
+        "snippet": "med National Science Foundation. Observatoriet kalles også the National <span class=\"searchmatch\">Astronomy</span> and Ionosphere Center, selv om NAIC egentlig er organisasjonen som driver",
+        "timestamp": "2023-11-23T02:49:31Z"
+      },
+      {
+        "ns": 0,
+        "title": "Himmelekvator",
+        "pageid": 504518,
+        "size": 2094,
+        "wordcount": 166,
+        "snippet": "stjernebildene: Himmelpol Himmelhvelving (en) Himmelekvator i Unified <span class=\"searchmatch\">Astronomy</span> Thesaurus Denne artikkelen er en spire. Du kan hjelpe Wikipedia ved å",
+        "timestamp": "2023-11-23T05:46:23Z"
+      },
+      {
+        "ns": 0,
+        "title": "Nymåne",
+        "pageid": 656666,
+        "size": 3964,
+        "wordcount": 456,
+        "snippet": "lunation, in More Mathematical <span class=\"searchmatch\">Astronomy</span> Morsels. Willmann-Bell, Richmond VA USA. s. 19..31. ISBN 0-943396-74-3.  Sacred <span class=\"searchmatch\">Astronomy</span> fra Zaytuna institute CrescentWatch",
+        "timestamp": "2024-12-22T00:08:34Z"
+      }
+    ]
+  }
+}

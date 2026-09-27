@@ -1,0 +1,21 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "redirects": [
+      {
+        "from": "Budgeting",
+        "to": "Budget"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 377116,
+        "ns": 0,
+        "title": "Budget",
+        "pageprops": {
+          "wikibase_item": "Q41263"
+        }
+      }
+    ]
+  }
+}

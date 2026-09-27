@@ -1,0 +1,37 @@
+{
+  "entities": {
+    "Q693387": {
+      "type": "item",
+      "id": "Q693387",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "sleep"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "shell command in various operating systems"
+        }
+      }
+    },
+    "Q35831": {
+      "type": "item",
+      "id": "Q35831",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "sleep"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "naturally recurring resting state of mind and body"
+        }
+      }
+    }
+  },
+  "success": 1
+}

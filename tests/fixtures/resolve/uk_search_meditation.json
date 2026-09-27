@@ -1,0 +1,59 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "sroffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "searchinfo": {
+      "totalhits": 185
+    },
+    "search": [
+      {
+        "ns": 0,
+        "title": "Guru Meditation",
+        "pageid": 2450029,
+        "size": 5222,
+        "wordcount": 342,
+        "snippet": "Guru <span class=\"searchmatch\">Meditation</span> — назва критичної помилки операційної системи, яка з&#039;являється в ранніх версіях операційної системи AmigaOS для домашніх комп&#039;ютерів Commodore",
+        "timestamp": "2022-04-25T04:06:38Z"
+      },
+      {
+        "ns": 0,
+        "title": "Медитація",
+        "pageid": 538905,
+        "size": 87139,
+        "wordcount": 7213,
+        "snippet": "L. (2013–08). Loving-Kindness <span class=\"searchmatch\">Meditation</span> for Posttraumatic Stress Disorder: A Pilot Study: Loving-Kindness <span class=\"searchmatch\">Meditation</span> for PTSD. Journal of Traumatic",
+        "timestamp": "2026-05-12T17:04:49Z"
+      },
+      {
+        "ns": 0,
+        "title": "Кінгін",
+        "pageid": 4670783,
+        "size": 6409,
+        "wordcount": 437,
+        "snippet": "Apsornsawan “Walking <span class=\"searchmatch\">Meditation</span> Promotes Ankle Proprioception and Balance Performance among Elderly Women. Smith, Alison. “Walking <span class=\"searchmatch\">Meditation</span>: Being Present",
+        "timestamp": "2025-03-17T17:48:49Z"
+      },
+      {
+        "ns": 0,
+        "title": "Гуру індуїзму",
+        "pageid": 1114011,
+        "size": 3807,
+        "wordcount": 397,
+        "snippet": "Religious Transplant. ,. Journal of Religious Culture. ,. TRANSCENDENTAL <span class=\"searchmatch\">MEDITATION</span> IN THE NEW MILLENNIUM Part One: Is TM a Religion?. Archived from the original",
+        "timestamp": "2019-07-02T16:49:04Z"
+      },
+      {
+        "ns": 0,
+        "title": "Буддійська медитація",
+        "pageid": 2701919,
+        "size": 39771,
+        "wordcount": 2848,
+        "snippet": "instance, Kamalashila (2003), p. 4, states that Buddhist <span class=\"searchmatch\">meditation</span> «includes any method of <span class=\"searchmatch\">meditation</span> that has Enlightenment as its ultimate aim.» Likewise",
+        "timestamp": "2025-11-19T19:37:56Z"
+      }
+    ]
+  }
+}

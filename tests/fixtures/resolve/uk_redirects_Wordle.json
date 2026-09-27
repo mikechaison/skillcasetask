@@ -1,0 +1,19 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 4442267,
+        "ns": 0,
+        "title": "Wordle",
+        "redirects": [
+          {
+            "pageid": 5643211,
+            "ns": 0,
+            "title": "Вордл"
+          }
+        ]
+      }
+    ]
+  }
+}

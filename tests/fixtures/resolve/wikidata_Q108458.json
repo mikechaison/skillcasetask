@@ -1,0 +1,32 @@
+{
+  "entities": {
+    "Q108458": {
+      "type": "item",
+      "id": "Q108458",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "meditation"
+        }
+      },
+      "sitelinks": {
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Meditace",
+          "badges": []
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "Medytacja",
+          "badges": []
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "Медитація",
+          "badges": []
+        }
+      }
+    }
+  },
+  "success": 1
+}

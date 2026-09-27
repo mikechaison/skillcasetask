@@ -1,0 +1,12 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "Pickleball",
+        "pageid": 2059473
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "psoffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "prefixsearch": [
+      {
+        "ns": 0,
+        "title": "World War I",
+        "pageid": 4764461
+      },
+      {
+        "ns": 0,
+        "title": "World War II",
+        "pageid": 32927
+      },
+      {
+        "ns": 0,
+        "title": "World War II casualties",
+        "pageid": 240900
+      },
+      {
+        "ns": 0,
+        "title": "World War III",
+        "pageid": 65307
+      },
+      {
+        "ns": 0,
+        "title": "World War II by country",
+        "pageid": 1393850
+      }
+    ]
+  }
+}

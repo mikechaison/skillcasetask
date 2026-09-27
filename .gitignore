@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# User data — never commit
+data/*
+!data/.gitkeep
+state.json
+claude.md
+
+# Generated outputs
+*.png
+*.pdf
+!assets/*.png
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Pipeline outputs (charts, reports, per-run JSON)
+output/
+
+# Local Claude Code settings
+.claude/settings.local.json

@@ -1,0 +1,59 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "sroffset": 5,
+    "continue": "-||"
+  },
+  "query": {
+    "searchinfo": {
+      "totalhits": 2870
+    },
+    "search": [
+      {
+        "ns": 0,
+        "title": "Intermittent fasting",
+        "pageid": 20104879,
+        "size": 67476,
+        "wordcount": 6558,
+        "snippet": "<span class=\"searchmatch\">Intermittent</span> <span class=\"searchmatch\">fasting</span> (IF) is any of various meal timing schedules that cycle between voluntary <span class=\"searchmatch\">fasting</span> (or reduced calorie intake) and non-<span class=\"searchmatch\">fasting</span> over",
+        "timestamp": "2026-09-15T13:42:18Z"
+      },
+      {
+        "ns": 0,
+        "title": "Fasting",
+        "pageid": 187886,
+        "size": 37884,
+        "wordcount": 3904,
+        "snippet": "<span class=\"searchmatch\">Fasting</span> is the act of refraining from eating, and sometimes drinking. However, from a physiological context, &quot;<span class=\"searchmatch\">fasting</span>&quot; may refer to the metabolic status",
+        "timestamp": "2026-09-11T15:43:01Z"
+      },
+      {
+        "ns": 0,
+        "title": "Michael Mosley",
+        "pageid": 23739220,
+        "size": 68554,
+        "wordcount": 5035,
+        "snippet": "with <span class=\"searchmatch\">intermittent</span> <span class=\"searchmatch\">fasting</span> that follows a daily 800-calorie eating plan. His book The <span class=\"searchmatch\">Fast</span> 800 Keto combines a ketogenic diet with <span class=\"searchmatch\">intermittent</span> <span class=\"searchmatch\">fasting</span>. Mosley&#039;s",
+        "timestamp": "2026-07-30T08:07:04Z"
+      },
+      {
+        "ns": 0,
+        "title": "Fastic",
+        "pageid": 30486001,
+        "size": 4485,
+        "wordcount": 442,
+        "snippet": "<span class=\"searchmatch\">Fastic</span> is an <span class=\"searchmatch\">intermittent</span> <span class=\"searchmatch\">fasting</span> app for iOS and Android launched by <span class=\"searchmatch\">Fastic</span> GmbH in 2019. In 2020, it became one of the most successful health and fitness",
+        "timestamp": "2024-08-12T18:35:50Z"
+      },
+      {
+        "ns": 0,
+        "title": "Greg O'Gallagher",
+        "pageid": 72675122,
+        "size": 7887,
+        "wordcount": 531,
+        "snippet": "of the YouTube video The Real Bruce Wayne Revealed: The Power Of <span class=\"searchmatch\">Intermittent</span> <span class=\"searchmatch\">Fasting</span> (4K). As of July 2023, the video has over 3.3 million views. He also",
+        "timestamp": "2026-09-01T04:51:09Z"
+      }
+    ]
+  }
+}

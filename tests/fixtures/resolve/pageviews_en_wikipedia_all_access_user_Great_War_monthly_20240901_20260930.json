@@ -1,0 +1,229 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2024090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2024100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2024110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2024120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 74
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2025010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2025020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2025030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 89
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2025040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2025050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 87
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2025060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 61
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2025070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 65
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2025080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 54
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2025090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 71
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2025100100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 84
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2025110100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 83
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2025120100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 72
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2026010100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 70
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2026020100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 75
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2026030100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 76
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2026040100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 81
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2026050100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 82
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2026060100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 56
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2026070100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 79
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2026080100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 85
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Great_war",
+      "granularity": "monthly",
+      "timestamp": "2026090100",
+      "access": "all-access",
+      "agent": "user",
+      "views": 43
+    }
+  ]
+}
